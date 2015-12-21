@@ -2,13 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Heart of Texas Silhouette Association</title>
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<link href="../_css/main.css" rel="stylesheet" media="screen, projection">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link href="_css/main.css" rel="stylesheet" media="screen, projection">
 </head>
 <body>
-<header id="pageHeader">
-<h1><a href="../index.php" title="Heart of Texas Silhouette Association">Heart of Texas Silhouette Association</a></h1>
-</header>
+<?php include_once("analyticstracking.php") ?>
+<header id="pageHeader" role="banner">
+<hgroup>
+<h1><a href="index.php" title="Heart of Texas Silhouette Association">H.O.T.S.A.</a></h1>
+<h2>Heart of Texas Silhouette Association</h2>
+</hgroup>
+</header><!-- #pageHeader -->

@@ -1,2 +1,552 @@
 /* CSS Document */
 
+/* ---- Site Colors ---- 
+White - Hex #fafeff; rgb(250, 254, 255);
+Blue - Hex #286ea0; rgb(40, 110, 160);
+Dark Gray - Hex #313133; rgb(49,49, 51);
+Black -  Hex #1c191f; rgb(28, 25, 31);
+Light Gray - Hex #979390; rgb(151, 147, 144);*/
+
+/* ---- Global styles ---- */
+
+/* ---- CSS Reset ---- */
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align:baseline;
+	font: inherit;
+}
+
+/* ---- HTML5 Display Rule ---- */
+address, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, nav, menu, nav, section, summary {
+	display: block;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(28, 25, 31);
+	border-bottom: 1px dotted rgb(28, 25, 31);
+}
+
+a:hover {
+	color: rgb(40, 110, 160);
+	border-bottom: 1px dotted rgb(40, 110, 160);
+	cursor: crosshair;
+}
+
+html {
+	background: rgb(151, 147, 144);	
+}
+
+body {
+	background: 	rgb(250, 254, 255);
+	color: rgb(28, 25, 31);
+	font: 100% Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1.5;
+	position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+nav ul {
+	list-style: none;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+/* ---- Clearfix ---- */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+
+/* ---- Header Styles ----*/
+header {
+	background: rgb(250, 254, 255);
+	width: 100%;
+	padding-top: 1px;
+	overflow: hidden;
+	margin-bottom: 1.5em;
+}
+
+header h1 {
+	color: rgb(28, 25, 31);
+	font-weight: bold;
+	text-transform: uppercase;
+	background: url(../_images/hotsaLogo.png) no-repeat left center;
+}
+
+/* ---- Nav Styles ---- */
+button.menu-toggle {
+	background: rgb(151, 147, 144);
+	color: rgb(28, 25, 31);
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.5em;	
+	font-weight: bold;
+	line-height: 1.5;
+}
+
+button.menu-toggle:hover {
+	color: rgb(40, 110, 160);
+	cursor: crosshair;	
+}
+
+#mainNav a {
+	text-transform: uppercase;
+	display: block;
+	color: rgb(28, 25, 31);
+	border-bottom: 1px dotted rgb(250, 254, 255);
+}
+
+#mainNav a:hover {
+	color: rgb(40, 110, 160);
+	border-bottom: 1px dotted rgb(40, 110, 160);
+}
+
+#mainNav a.current {
+	color: rgb(151, 147, 144);
+	cursor: default;
+}
+
+/* ---- Article Styles ---- */
+article {
+	margin: 2em 0 4em;
+}
+
+article h2 {
+	color: rgb(28, 25, 31);
+	border-bottom: 2px solid rgb(28, 25, 31);
+}
+
+article p {
+	font-size: 1em;
+	margin: 1.2em 0;
+}
+
+.silhouettes-details {
+	margin: 0 auto;	
+}
+
+.prairiedog, .armadillo, .coyote, .boar {
+	display: block;
+	margin: 0 auto;
+	padding: 1em 0;
+}
+
+/* ---- Gallery Styles ---- */
+#forSale {
+	background: rgb(49,49, 51);	
+	padding-bottom: 30px;
+}
+
+.gallery {
+	margin: 0 auto;	
+}
+
+.gallery a {
+	display: inline-block;
+	border-bottom: none;
+}
+
+.gallery a:hover {
+	border-bottom: none;
+}
+
+.gallery img {
+	margin: 30px 15px 0;
+	border: 5px solid rgb(250, 254, 255);
+}
+
+.gallery img:hover {
+	border: 5px solid rgb(40, 110, 160);	
+}
+
+/* ---- Footer Styles ---- */
+#pageFooter {
+	background: rgb(49,49, 51);
+	padding: 1.5em 0;
+}
+
+#pageFooter p {
+	font-size: 1em;
+	margin: .8em 0;
+	padding: 0 .5em;	
+	color: rgb(250, 254, 255);
+	text-align: center;
+	clear: both;
+}
+
+.facebook {
+	height: 64px;
+}
+
+.facebook a {
+	background: url(../_images/Facebook.png) no-repeat left center;
+	color: rgb(250, 254, 255);
+	border-bottom: none;
+	font-size: 1em;
+	padding-left: 75px;
+	line-height: 64px;
+	margin-right: 3.9%;
+	float: right;
+	display: inline;
+}
+
+/* ---- Mobile Styles ---- */
+@media only screen and (max-width:480px) {
+
+/*disable text sizing on orientation change*/
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+	-webkit-text-size-adjust:none;
+}
+
+body {
+	width: 90%;
+	margin: 0 auto 1em;
+	min-width: 320px;
+	max-width: 480px;
+}
+
+/* ---- Header Styles ---- */
+header {
+	height: 70px;
+}
+
+header h1 {
+	font-size: 2em;
+	padding-left: 55px;
+	line-height: 70px;
+	width: 190px;
+	margin: 0 auto;
+	background: url(../_images/sm_hotsaLogo.png) no-repeat left center;
+}
+
+header h2 {
+	display: none;
+}
+
+/* ---- Nav Styles ---- */
+#mainNav {
+	width: 300px;
+	margin: 0 auto;
+	margin-bottom: 3em;
+}
+
+button.menu-toggle {
+	display: block;
+	width: 300px;
+}
+
+.toggle {
+	display: none;	
+}
+
+#mainNav li {
+	line-height: 3;
+	border-right: 1px dotted rgb(28, 25, 31);
+	border-bottom: 1px dotted rgb(28, 25, 31);
+	border-left: 1px dotted rgb(28, 25, 31);
+}
+
+#mainNav a {
+	font-size: 1em;
+	text-align: center;
+	border-bottom: none;
+}
+
+#mainNav a:hover {
+	border-bottom: none;	
+}
+
+/* ---- Banner Styles ---- */
+.banner {
+	display: none;
+}
+
+/* ---- Article Styles ---- */
+article {
+	width: 90%;
+	margin: 0 auto;
+}
+
+article h2 {
+	font-size: 2em;
+	margin-bottom: 0;
+}
+
+.silhouettes-details {
+	width: 80%;
+}
+
+/* ---- Gallery Styles ---- */
+#forSale {
+	margin-top: .1em;	
+}
+
+.gallery {
+	width: 290px;
+}
+
+/* ---- Silhouette Styles ---- */
+.silhouettes {
+	height: 69px;
+	background: url(../_images/silhouettes/sm_silhouettes.png) no-repeat center center;	
+}
+
+.facebook a {
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+}
+
+/* ---- Tablet Styles ---- */
+@media only screen and (min-width:481px) and (max-width:768px) {
+
+body {
+	width: 90%;
+	margin: 0 auto 1em;
+	min-width: 500px;
+	max-width: 768px;
+}
+
+/* ---- Header Styles ---- */
+header {
+	height: 165px;
+}
+
+header h1 {
+	font-size: 3.2em;
+	padding-left: 110px;
+	line-height: 165px;
+	width: 270px;
+	margin: 0 auto;
+}
+
+header h2 {
+	display: none;
+}
+
+/* ---- Nav Styles ---- */
+#mainNav {
+	width: 450px;
+	margin: 0 auto;
+	margin-bottom: 3em;
+}
+
+button.menu-toggle {
+	display: block;
+	width: 450px;
+}
+
+.toggle {
+	display: none;	
+}
+
+#mainNav li {
+	line-height: 3;
+	border-right: 1px dotted rgb(28, 25, 31);
+	border-bottom: 1px dotted rgb(28, 25, 31);
+	border-left: 1px dotted rgb(28, 25, 31);
+}
+
+#mainNav a {
+	font-size: 1em;
+	text-align: center;
+	border-bottom: none;
+}
+
+#mainNav a:hover {
+	border-bottom: none;	
+}
+
+/* ---- Banner Styles ---- */
+.banner {
+	width: 100%;
+	height: 175px;
+}
+
+.home, .announcements {
+	background: rgb(49, 49, 51) url(../_images/banner/sm_home.jpg) no-repeat center center;	
+}
+
+.membership {
+	background: rgb(49, 49, 51) url(../_images/banner/sm_membership.jpg) no-repeat center center;	
+}
+
+.vbr, .forSale {
+	background: rgb(49, 49, 51) url(../_images/banner/sm_vbr.jpg) no-repeat center center;	
+}
+
+.matchSchedule {
+	background: rgb(49, 49, 51) url(../_images/banner/sm_match.jpg) no-repeat center center;	
+}
+
+/* ---- Article Styles ---- */
+article {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+article h2 {
+	font-size: 2em;
+	margin-bottom: 0;
+}
+
+.silhouettes-details {
+	width: 75%;
+}
+
+/* ---- Gallery Styles ---- */
+#forSale {
+	margin-top: .1em;	
+}
+
+.gallery {
+	width: 290px;
+}
+
+/* ---- Silhouette Styles ---- */
+.silhouettes {
+	height: 104px;
+	background: url(../_images/silhouettes/md_silhouettes.png) no-repeat center center;	
+}
+
+}
+/* ---- Desktop Styles ---- */
+@media only screen and (min-width:769px) {
+
+body {
+	width: 90%;
+	margin: 0 auto 2em;;
+	min-width: 1024px;
+	max-width: 1280px;
+}
+
+/* ---- Header Styles ---- */
+header {
+	height: 165px;
+}
+
+header h1 {
+	font-size: 3.2em;
+	padding-left: 110px;
+	line-height: 165px;
+	margin-right: .5em;
+	float: left;
+	margin-left: 3.9%;/* fixes nasty 1px header fitting problem*/
+	display: inline;
+}
+
+header h2 {
+	font-style: italic;
+	font-weight:normal;
+	font-size: 1.4em;
+	color: rgb(28, 25, 31);
+	float: left;
+	letter-spacing:.1em;
+	line-height: 165px;
+}
+
+/* ---- Nav Styles ---- */
+#mainNav {
+	overflow: hidden;
+	margin-bottom: 1.5em;
+	padding-left: 3.9%;
+}
+
+button.menu-toggle {
+	display: none;
+}
+
+.toggle {
+	display: block;	
+}
+
+#mainNav li {
+	float: left;
+	margin-right: 1em;
+}
+
+#mainNav a {
+	font-size: 1em;
+	text-align: center;
+}
+
+/* ---- Banner Styles ---- */
+.banner {
+	height: 175px;	
+}
+
+.home, .announcements {
+	background: rgb(49, 49, 51) url(../_images/banner/home.jpg) no-repeat center center;	
+}
+
+.membership {
+	background: rgb(49, 49, 51) url(../_images/banner/membership.jpg) no-repeat center center;	
+}
+
+.vbr, .forSale {
+	background: rgb(49, 49, 51) url(../_images/banner/vbr.jpg) no-repeat center center;	
+}
+
+.matchSchedule {
+	background: rgb(49, 49, 51) url(../_images/banner/match.jpg) no-repeat center center;	
+}	
+
+/* ---- Article Styles ---- */
+article {
+	padding: 0 3.9%;
+}
+
+article h2 {
+	font-size: 2.8em;
+	margin-bottom: .1em;
+}
+
+article p {
+	font-size: 1.2em;
+	margin: .8em 0;
+}
+
+.silhouettes-details {
+	width: 40%;
+}
+
+/* ---- Gallery Styles ---- */
+.gallery {
+	width: 880px;
+}
+
+/* ---- Silhouette Styles ---- */
+.silhouettes {
+	height: 175px;
+	background: url(../_images/silhouettes/silhouettes.png) no-repeat center center;	
+}
+
+}
