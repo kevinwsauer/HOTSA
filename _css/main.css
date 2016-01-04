@@ -129,6 +129,7 @@ button.menu-toggle:hover {
 
 #mainNav a.current {
 	color: rgb(151, 147, 144);
+	border-bottom: 1px dotted rgb(151, 147, 144);
 	cursor: default;
 }
 
@@ -282,6 +283,11 @@ button.menu-toggle {
 	border-bottom: none;	
 }
 
+#mainNav a.current {
+	border-bottom: none;
+}
+
+
 /* ---- Banner Styles ---- */
 .banner {
 	display: none;
@@ -382,6 +388,10 @@ button.menu-toggle {
 
 #mainNav a:hover {
 	border-bottom: none;	
+}
+
+#mainNav a.current {
+	border-bottom: none;
 }
 
 /* ---- Banner Styles ---- */
@@ -496,6 +506,10 @@ button.menu-toggle {
 #mainNav a {
 	font-size: 1em;
 	text-align: center;
+}
+
+#mainNav a.current {
+	border-bottom: none;
 }
 
 /* ---- Banner Styles ---- */
