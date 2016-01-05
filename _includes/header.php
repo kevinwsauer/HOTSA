@@ -12,9 +12,15 @@
 </head>
 <body>
 <?php include_once("analyticstracking.php") ?>
+<!-- Start Header Section -->
 <header id="pageHeader" role="banner">
 <hgroup>
 <h1><a href="index.php" title="Heart of Texas Silhouette Association">H.O.T.S.A.</a></h1>
 <h2>Heart of Texas Silhouette Association</h2>
 </hgroup>
 </header><!-- #pageHeader -->
+<!-- End Header Section -->
+<!-- Start Navigation Section -->
+<button class="menu-toggle">Menu</button><!-- .menu-toggle -->
+<nav id="mainNav" class="toggle" role="navigation">
+<ul class="cf">

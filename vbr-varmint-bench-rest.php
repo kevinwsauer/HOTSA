@@ -1,16 +1,19 @@
+<!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
-<nav id="mainNav" role="navigation">
-<button class="menu-toggle">Menu</button><!-- .menu-toggle -->
-<ul class="cf menu-list toggle">
+<!-- Continue Navigation Section -->
 <li><a href="index.php" title="Home">Home</a></li>
 <li><a href="announcements.php" title="Announcements">Announcements</a></li>
 <li><a href="membership.php" title="Membership">Membership</a></li>
 <li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest" class="current">VBR: Varmint Bench Rest</a><!-- .current --></li>
 <li><a href="match-schedule.php" title="Match Schedule">Match Schedule</a></li>
 <li><a href="for-sale.php" title="For Sale">For Sale</a></li>
-</ul><!-- .menu-list .toggle -->
-</nav><!-- #mainNav -->
+</ul><!-- .cf -->
+</nav><!-- #mainNav .toggle -->
+<!-- End Navigation Section -->
+<!-- Start Banner Section -->
 <div class="banner vbr"></div><!-- .banner .vbr --> 
+<!-- End Banner Section -->
+<!-- Start Main Section -->
 <section id="main" role="main">
 <article role="contentinfo">
 <h2>VBR: Varmint Bench Rest</h2>
@@ -27,4 +30,6 @@
 <p>I will have details on rules and match format as soon as possible.</p>
 </article>
 </section><!-- #main -->
+<!-- End Main Section -->
+<!-- Include Footer File -->
 <?php include_once("_includes/footer.php"); ?>

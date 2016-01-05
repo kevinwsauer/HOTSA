@@ -1,17 +1,20 @@
+<!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
-<nav id="mainNav" role="navigation">
-<button class="menu-toggle">Menu</button><!-- .menu-toggle -->
-<ul class="cf menu-list toggle">
+<!-- Continue Navigation Section -->
 <li><a href="index.php" title="Home" class="current">Home</a><!-- .current --></li>
 <li><a href="announcements.php" title="Announcements">Announcements</a></li>
 <li><a href="membership.php" title="Membership">Membership</a></li>
 <li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
 <li><a href="match-schedule.php" title="Match Schedule">Match Schedule</a></li>
 <li><a href="for-sale.php" title="For Sale">For Sale</a></li>
-</ul><!-- .menu-list .toggle -->
-</nav><!-- #mainNav -->
-<section id="main" role="main">
+</ul><!-- .cf -->
+</nav><!-- #mainNav .toggle -->
+<!-- End Navigation Section -->
+<!-- Start Banner Section -->
 <div class="banner home"></div><!-- .banner .home --> 
+<!-- End Banner Section -->
+<!-- Start Main Section -->
+<section id="main" role="main">
 <article role="contentinfo">
 <h2>Welcome</h2>
 <p>Heart of Texas Silhouette Association is a private rifle range dedicated to the sport of silhouette shooting sports. We hold an NRA registered BPCRS match the first Saturday of every month, weather permitting.  The match is a 40 shot BPCRS format.</p>
@@ -22,4 +25,6 @@
 <p>There are also other forms of silhouette matches held routinely.</p>
 </article>
 </section><!-- #main -->
+<!-- End Main Section -->
+<!-- Include Footer File -->
 <?php include_once("_includes/footer.php"); ?>
