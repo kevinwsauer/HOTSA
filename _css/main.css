@@ -102,8 +102,12 @@ header h1 {
 
 /* ---- Nav Styles ---- */
 button.menu-toggle {
-	background: rgb(151, 147, 144);
-	color: rgb(28, 25, 31);
+	background: rgb(49,49, 51);
+	color: rgb(250, 254, 255);
+	border-top: 1px solid rgb(34, 34, 36);
+	border-right: 1px solid rgb(69, 69, 71);
+	border-bottom: 1px solid rgb(69, 69, 71);
+	border-left: 1px solid rgb(34, 34, 36);
 	font-family: Georgia, "Times New Roman", serif;
 	font-size: 1.5em;	
 	font-weight: bold;
@@ -261,6 +265,7 @@ header h2 {
 	width: 260px;
 	margin: 0 auto;
 	padding: 20px;
+	border-top: 1px solid rgb(34, 34, 36);
 	background: rgb(49, 49, 51);
 }
 
@@ -385,6 +390,7 @@ header h2 {
 	width: 410px;
 	margin: 0 auto;
 	padding: 20px;
+	border-top: 1px solid rgb(34, 34, 36);
 	background: rgb(49, 49, 51);
 }
 
