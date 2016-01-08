@@ -3,9 +3,11 @@
 /* ---- Site Colors ---- 
 White - Hex #fafeff; rgb(250, 254, 255);
 Blue - Hex #286ea0; rgb(40, 110, 160);
+Red - Hex #dc0003; rgb(220,0,3);
+Light Gray - Hex #979390; rgb(151, 147, 144);
 Dark Gray - Hex #313133; rgb(49,49, 51);
-Black -  Hex #1c191f; rgb(28, 25, 31);
-Light Gray - Hex #979390; rgb(151, 147, 144);*/
+Black -  Hex #1c191f; rgb(28, 25, 31);*/
+
 
 /* ---- Global styles ---- */
 
@@ -85,7 +87,7 @@ em {
 }
 
 .note {
-	color: red;
+	color: rgb(220,0,3);
 	font-style: italic;
 }
 
@@ -189,7 +191,7 @@ a[href$=".pdf"] {
 /* ---- Aside Styles ---- */
 aside {
 	margin: 0 0 2em;
-	background: rgba(220,0,3,1.00);
+	background: rgb(220,0,3);
 }
 
 aside h3 {
