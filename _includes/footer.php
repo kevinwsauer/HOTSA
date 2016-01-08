@@ -4,7 +4,7 @@
 <!-- Start Footer Section -->
 <footer id="pageFooter" class="cf">
 <p>&copy; <?php echo date("Y"); ?> Heart of Texas Silhouette Association</p>
-<div class="facebook"><a href="http://facebook.com" title="Like us on Facebook">Like us on Facebook</a></div><!-- .facebook -->
+<div class="facebook"><a href="http://facebook.com/HeartofTexasSilhouetteAssociation" title="Like us on Facebook">Like us on Facebook</a></div><!-- .facebook -->
 </footer><!-- #pageFooter -->
 <!-- End Footer Section -->
 <!-- Include JQuery -->
