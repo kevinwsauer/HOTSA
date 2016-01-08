@@ -4,11 +4,10 @@
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->
 <li><a href="index.php" title="Home">Home</a></li>
-<li><a href="announcements.php" title="Announcements">Announcements</a></li>
 <li><a href="officials-directors.php" title="Officials &amp; Directors">Officials &amp; Directors</a></li>
 <li><a href="membership.php" title="Membership">Membership</a></li>
 <li><a href="match-schedule.php" title="Match Schedule" class="current">Match Schedule</a><!-- .current --></li>
-<li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR</a></li>
+<li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
 <li><a href="for-sale.php" title="For Sale">For Sale</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
@@ -18,7 +17,7 @@
 <!-- End Banner Section -->
 <!-- Start Main Section -->
 <section id="main" role="main">
-<article role="contentinfo">
+<article id="match-schedule" role="contentinfo">
 <h2>2015 Match Schedule</h2>
 <p>The general schedule is as follows but check with the match directors before making the trip if you are not sure.</p>
 <p>1<sup>st</sup> Saturday of the month: BPCR Big Bore<br>
@@ -32,7 +31,7 @@ Match Director Ken Tebbe</p>
 Match directors: Danny Henderson and David Brady</p>
 <p>4<sup>th</sup> Sunday of the month: Lever Action Silhouette<br>
 Match Director: Rick Merritt</p>
-</article>
+</article><!-- #match-schedule -->
 </section><!-- #main -->
 <!-- End Main Section -->
 <!-- Include Footer File -->

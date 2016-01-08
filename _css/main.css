@@ -186,8 +186,25 @@ a[href$=".pdf"] {
 	border-bottom: none;
 }
 
+/* ---- Aside Styles ---- */
+aside {
+	margin: 0 0 2em;
+	background: rgba(220,0,3,1.00);
+}
+
+aside h3 {
+	color: rgb(250, 254, 255);
+	border-bottom: 2px solid rgb(250, 254, 255);
+}
+
+aside p {
+	font-size: 1em;
+	margin: 1.2em 0;
+	color: rgb(250, 254, 255);
+}
+
 /* ---- Gallery Styles ---- */
-#forSale {
+#for-sale section {
 	background: rgb(49,49, 51);	
 	padding-bottom: 30px;
 }
@@ -352,8 +369,20 @@ article h2 {
 	width: 80%;
 }
 
+/* ---- Aside Styles ---- */
+aside {
+	width: 90%;
+	padding: 5%;
+	margin: 1.5em 0 0;
+}
+
+aside h3 {
+	font-size: 2em;
+	margin-bottom: 0;
+}
+
 /* ---- Gallery Styles ---- */
-#forSale {
+#for-sale section {
 	margin-top: .1em;	
 }
 
@@ -461,7 +490,7 @@ button.menu-toggle {
 	height: 175px;
 }
 
-.home, .announcements {
+.home, .officials-directors {
 	background: rgb(49, 49, 51) url(../_images/banner/sm_home.jpg) no-repeat center center;	
 }
 
@@ -493,8 +522,19 @@ article h2 {
 	width: 75%;
 }
 
+/* ---- Aside Styles ---- */
+aside {
+	width: 90%;
+	padding: 5%;
+}
+
+aside h3 {
+	font-size: 2em;
+	margin-bottom: 0;
+}
+
 /* ---- Gallery Styles ---- */
-#forSale {
+#for-sale section {
 	margin-top: .1em;	
 }
 
@@ -575,7 +615,7 @@ button.menu-toggle {
 	height: 175px;	
 }
 
-.home, .announcements {
+.home, .officials-directors {
 	background: rgb(49, 49, 51) url(../_images/banner/home.jpg) no-repeat center center;	
 }
 
@@ -596,6 +636,12 @@ article {
 	padding: 0 3.9%;
 }
 
+article#home {
+	width: 62.2%;
+	float: left;	
+	padding: 0 3.9%;
+}
+
 article h2 {
 	font-size: 2.8em;
 	margin-bottom: .1em;
@@ -608,6 +654,25 @@ article p {
 
 .silhouettes-details {
 	width: 40%;
+}
+
+/* ---- Aside Styles ---- */
+aside {
+	width: 18.3%;
+	float: right;
+	margin-top: 2em;
+	margin-right: 3.9%;
+	padding: 2.3% 3.9%;
+}
+
+aside h3 {
+	font-size: 1.6em;	
+	margin-bottom: .1em;
+}
+
+aside p {
+	font-size: 1.2em;
+	margin: .8em 0;
 }
 
 /* ---- Gallery Styles ---- */
