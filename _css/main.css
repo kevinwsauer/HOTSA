@@ -84,12 +84,16 @@ em {
     *zoom: 1;
 }
 
+.note {
+	color: red;
+	font-style: italic;
+}
+
 /* ---- Header Styles ----*/
 header {
 	background: rgb(250, 254, 255);
 	width: 100%;
-	padding-top: 1px;
-	overflow: hidden;
+	padding: 2em 0 .5em;
 	margin-bottom: 1.5em;
 }
 
@@ -97,7 +101,13 @@ header h1 {
 	color: rgb(28, 25, 31);
 	font-weight: bold;
 	text-transform: uppercase;
-	background: url(../_images/hotsaLogo.png) no-repeat left center;
+}
+
+header h2 {
+	font-style: italic;
+	font-weight:normal;
+	color: rgb(28, 25, 31);
+	letter-spacing:.1em;
 }
 
 /* ---- Nav Styles ---- */
@@ -168,6 +178,14 @@ article p {
 	padding: 1em 0;
 }
 
+a[href$=".pdf"] { 
+	display: inline-block;
+	background: url(../_images/icon-pdf_32.png) no-repeat left center;
+	padding-left: 42px; 
+	line-height: 32px;
+	border-bottom: none;
+}
+
 /* ---- Gallery Styles ---- */
 #forSale {
 	background: rgb(49,49, 51);	
@@ -220,11 +238,11 @@ article p {
 	color: rgb(250, 254, 255);
 	border-bottom: none;
 	font-size: 1em;
-	padding-left: 75px;
+	padding-left: 74px;
 	line-height: 64px;
 	margin-right: 3.9%;
 	float: right;
-	display: inline;
+	display: inline-block;
 }
 
 /* ---- Mobile Styles ---- */
@@ -243,21 +261,19 @@ body {
 }
 
 /* ---- Header Styles ---- */
-header {
-	height: 70px;
-}
-
 header h1 {
-	font-size: 2em;
-	padding-left: 55px;
-	line-height: 70px;
-	width: 190px;
+	font-size: 2.2em;
+	padding-left: 66px;
+	line-height: 50px;
+	width: 196px;
 	margin: 0 auto;
 	background: url(../_images/sm_hotsaLogo.png) no-repeat left center;
 }
 
 header h2 {
-	display: none;
+	font-size: .8em;
+	width: 262px;
+	margin: 0 auto;
 }
 
 /* ---- Nav Styles ---- */
@@ -369,20 +385,19 @@ body {
 }
 
 /* ---- Header Styles ---- */
-header {
-	height: 165px;
-}
-
 header h1 {
 	font-size: 3.2em;
-	padding-left: 110px;
-	line-height: 165px;
-	width: 270px;
+	padding-left: 116px;
+	line-height: 100px;
+	width: 276px;
 	margin: 0 auto;
+	background: url(../_images/hotsaLogo.png) no-repeat left center;
 }
 
 header h2 {
-	display: none;
+    font-size: 1.2em;
+    margin: 0 auto;
+    width: 392px;
 }
 
 /* ---- Nav Styles ---- */
@@ -506,27 +521,25 @@ body {
 
 /* ---- Header Styles ---- */
 header {
-	height: 165px;
+	height: 100px;
+	overflow: hidden;
 }
 
 header h1 {
 	font-size: 3.2em;
-	padding-left: 110px;
-	line-height: 165px;
+	padding-left: 116px;
+	line-height: 100px;
 	margin-right: .5em;
 	float: left;
 	margin-left: 3.9%;/* fixes nasty 1px header fitting problem*/
 	display: inline;
+	background: url(../_images/hotsaLogo.png) no-repeat left center;
 }
 
 header h2 {
-	font-style: italic;
-	font-weight:normal;
-	font-size: 1.4em;
-	color: rgb(28, 25, 31);
+	font-size: 1.6em;
 	float: left;
-	letter-spacing:.1em;
-	line-height: 165px;
+	line-height: 100px;
 }
 
 /* ---- Nav Styles ---- */
