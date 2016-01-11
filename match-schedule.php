@@ -27,8 +27,8 @@ Match Director Jack Garrett and Dave Wester</p>
 <p>3<sup>rd</sup> Saturday of the month: 22 Rim-fire BPCR<br>
 Match Director Ken Tebbe</p>
 <p>4<sup>th</sup> Saturday of the month: VBR (Varmint Bench Rest)<br>
-<span class="note">&#40;Note: Don't drive out unless you've received a confirmation email or call.  This emerging game is still being developed and the schedule should line out in a few months and be more consistent.&#41;</span><br>
-Match directors: Danny Henderson and David Brady</p>
+Match directors: Danny Henderson and David Brady<br>
+<span class="note">&#40;Note: Don't drive out unless you've received a confirmation email or call.  This emerging game is still being developed and the schedule should line out in a few months and be more consistent.&#41;</span></p>
 <p>4<sup>th</sup> Sunday of the month: Lever Action Silhouette<br>
 Match Director: Rick Merritt</p>
 </article><!-- #match-schedule -->

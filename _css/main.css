@@ -38,7 +38,16 @@ a:hover {
 }
 
 html {
-	background: rgb(151, 147, 144);	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#313133+0,979390+50,313133+100 */
+	background: rgb(49,49,51); /* Old browsers */
+	background: -moz-linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%);
+	background: -webkit-linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%);
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(rgb(49,49,51)), color-stop(0.5, rgb(151,147,144)), to(rgb(49,49,51)));
+	background: -o-linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%);
+	background: linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%); /* FF3.6-15 */
+	 /* Chrome10-25,Safari5.1-6 */
+	 /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#313133', endColorstr='#313133',GradientType=0 ); /* IE6-9 */
 }
 
 body {
@@ -87,7 +96,7 @@ em {
 }
 
 .note {
-	color: rgb(220,0,3);
+	color: rgba(220, 0, 3, .8);
 	font-style: italic;
 }
 
@@ -191,18 +200,18 @@ a[href$=".pdf"] {
 /* ---- Aside Styles ---- */
 aside {
 	margin: 0 0 2em;
-	background: rgb(220,0,3);
+	background: rgba(220, 0, 3, .8);
 }
 
 aside h3 {
-	color: rgb(250, 254, 255);
-	border-bottom: 2px solid rgb(250, 254, 255);
+	color: rgba(250, 254, 255, .9);
+	border-bottom: 2px solid rgba(250, 254, 255, .9);
 }
 
 aside p {
 	font-size: 1em;
 	margin: 1.2em 0;
-	color: rgb(250, 254, 255);
+	color: rgba(250, 254, 255, .9);
 }
 
 /* ---- Gallery Styles ---- */
@@ -235,7 +244,8 @@ aside p {
 
 /* ---- Footer Styles ---- */
 #pageFooter {
-	background: rgb(49,49, 51);
+	background: rgb(151, 147, 144);
+	border-top: 2px solid rgb(28, 25, 31);
 	padding: 1.5em 0;
 }
 
@@ -243,7 +253,7 @@ aside p {
 	font-size: 1em;
 	margin: .8em 0;
 	padding: 0 .5em;	
-	color: rgb(250, 254, 255);
+	color: rgb(28, 25, 31);
 	text-align: center;
 	clear: both;
 }
@@ -254,7 +264,7 @@ aside p {
 
 .facebook a {
 	background: url(../_images/Facebook.png) no-repeat left center;
-	color: rgb(250, 254, 255);
+	color: rgb(28, 25, 31);
 	border-bottom: none;
 	font-size: 1em;
 	padding-left: 74px;
@@ -274,7 +284,7 @@ html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h
 
 body {
 	width: 90%;
-	margin: 0 auto 1em;
+	margin: 0 auto;
 	min-width: 320px;
 	max-width: 480px;
 }
@@ -410,7 +420,7 @@ aside h3 {
 
 body {
 	width: 90%;
-	margin: 0 auto 1em;
+	margin: 0 auto;
 	min-width: 500px;
 	max-width: 768px;
 }
@@ -492,20 +502,24 @@ button.menu-toggle {
 	height: 175px;
 }
 
-.home, .officials-directors {
+.home {
 	background: rgb(49, 49, 51) url(../_images/banner/sm_home.jpg) no-repeat center center;	
+}
+
+.officials-directors {
+	background: rgb(49, 49, 51) url(../_images/banner/sm_officials-directors.jpg) no-repeat center center;	
 }
 
 .membership {
 	background: rgb(49, 49, 51) url(../_images/banner/sm_membership.jpg) no-repeat center center;	
 }
 
-.vbr, .forSale {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_vbr.jpg) no-repeat center center;	
-}
-
 .matchSchedule {
 	background: rgb(49, 49, 51) url(../_images/banner/sm_match.jpg) no-repeat center center;	
+}
+
+.vbr {
+	background: rgb(49, 49, 51) url(../_images/banner/sm_vbr.jpg) no-repeat center center;	
 }
 
 /* ---- Article Styles ---- */
@@ -556,7 +570,7 @@ aside h3 {
 
 body {
 	width: 90%;
-	margin: 0 auto 2em;;
+	margin: 0 auto;
 	min-width: 1024px;
 	max-width: 1280px;
 }
@@ -617,21 +631,25 @@ button.menu-toggle {
 	height: 175px;	
 }
 
-.home, .officials-directors {
+.home {
 	background: rgb(49, 49, 51) url(../_images/banner/home.jpg) no-repeat center center;	
+}
+
+.officials-directors {
+	background: rgb(49, 49, 51) url(../_images/banner/officials-directors.jpg) no-repeat center center;	
 }
 
 .membership {
 	background: rgb(49, 49, 51) url(../_images/banner/membership.jpg) no-repeat center center;	
 }
 
-.vbr, .forSale {
-	background: rgb(49, 49, 51) url(../_images/banner/vbr.jpg) no-repeat center center;	
-}
-
 .matchSchedule {
 	background: rgb(49, 49, 51) url(../_images/banner/match.jpg) no-repeat center center;	
 }	
+
+.vbr {
+	background: rgb(49, 49, 51) url(../_images/banner/vbr.jpg) no-repeat center center;	
+}
 
 /* ---- Article Styles ---- */
 article {

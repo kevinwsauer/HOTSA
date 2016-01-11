@@ -12,9 +12,6 @@
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
 <!-- End Navigation Section -->
-<!-- Start Banner Section -->
-<div class="banner forSale"></div><!-- .banner .forSale --> 
-<!-- End Banner Section -->
 <!-- Start Main Section -->
 <section id="main" role="main">
 <article id="for-sale" role="contentinfo">
