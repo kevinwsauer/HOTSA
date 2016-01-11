@@ -284,7 +284,7 @@ html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h
 
 body {
 	width: 90%;
-	margin: 0 auto;
+	margin: 0 auto 2em;
 	min-width: 320px;
 	max-width: 480px;
 }
@@ -420,7 +420,7 @@ aside h3 {
 
 body {
 	width: 90%;
-	margin: 0 auto;
+	margin: 0 auto 2em;
 	min-width: 500px;
 	max-width: 768px;
 }
@@ -570,7 +570,7 @@ aside h3 {
 
 body {
 	width: 90%;
-	margin: 0 auto;
+	margin: 0 auto 4em;
 	min-width: 1024px;
 	max-width: 1280px;
 }
