@@ -19,7 +19,44 @@
 <section id="main" role="main">
 <article id="officials-directors" role="contentinfo">
 <h2>Officials &amp; Directors</h2>
-<p>President:<br></p>
+<table id="officials">
+<tr>
+<th colspan="2">Officials: </th>
+</tr>
+<tr>
+<td>President: </td>
+<td>Pending</td>
+</tr>
+<tr>
+<td>Secretary: </td>
+<td>Hal Vinson</td>
+<tr>
+</table>
+<table id="directors">
+<tr>
+<th colspan="2">Directors: </th>
+</tr>
+<tr>
+<td>BPCR: </td>
+<td>Kenny Tebbe</td>
+</tr>
+<tr>
+<td>High Power: </td>
+<td>Jack Garrett</td>
+</tr>
+<tr>
+<td>22 BPCR: </td>
+<td>Kenny Tebbe</td>
+</tr>
+<tr>
+<td>Clays: </td>
+<td>Danny Henderson</td>
+</tr>
+<tr>
+<td>Lever Action: </td>
+<td>Rick Mariott</td>
+</tr>
+</table>
 </article><!-- #officials-directors -->
 </section><!-- #main -->
 <!-- End Main Section -->

@@ -179,6 +179,31 @@ article p {
 	margin: 1.2em 0;
 }
 
+article table {
+	width: 100%;
+	margin: 1.2em 0;
+	font-size: 1em;
+}
+
+article table tr:nth-child(odd) {
+	background: rgb(151, 147, 144);	
+}
+
+article table tr:nth-child(even) {
+	background: rgb(201, 197, 194);	
+}
+
+article table th {
+	font-size: 1.2em;	
+}
+
+article table th, article table td {
+	vertical-align: middle;
+	text-align: left;
+	width: 46%;	
+	padding: 2%;
+}
+
 .silhouettes-details {
 	margin: 0 auto;	
 }
@@ -670,6 +695,15 @@ article h2 {
 article p {
 	font-size: 1.2em;
 	margin: .8em 0;
+}
+
+article table {
+	font-size: 1.2em;
+	margin: .8em 0;	
+}
+
+article table th {
+	font-size: 1.4em;	
 }
 
 .silhouettes-details {
