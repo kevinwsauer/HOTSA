@@ -38,16 +38,12 @@ a:hover {
 }
 
 html {
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#313133+0,979390+50,313133+100 */
-	background: rgb(49,49,51); /* Old browsers */
-	background: -moz-linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%);
-	background: -webkit-linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%);
-	background: -webkit-gradient(linear, 0 0, 0 100%, from(rgb(49,49,51)), color-stop(0.5, rgb(151,147,144)), to(rgb(49,49,51)));
-	background: -o-linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%);
-	background: linear-gradient(rgb(49,49,51) 0%, rgb(151,147,144) 50%, rgb(49,49,51) 100%); /* FF3.6-15 */
-	 /* Chrome10-25,Safari5.1-6 */
-	 /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#313133', endColorstr='#313133',GradientType=0 ); /* IE6-9 */
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#979390+0,313133+100 */
+	background: rgb(151,147,144); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgb(151,147,144) 0%, rgb(49,49,51) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#979390', endColorstr='#313133',GradientType=0 ); /* IE6-9 */
 }
 
 body {
@@ -270,21 +266,17 @@ aside p {
 /* ---- Footer Styles ---- */
 #pageFooter {
 	background: rgb(151, 147, 144);
-	border-top: 2px solid rgb(28, 25, 31);
-	padding: 1.5em 0;
+	width: 100%;
+	padding: 2em 0 .5em;
+	margin-bottom: 1.5em;
 }
 
 #pageFooter p {
 	font-size: 1em;
-	margin: .8em 0;
-	padding: 0 .5em;	
+	margin: 1.2em 0;
 	color: rgb(28, 25, 31);
 	text-align: center;
 	clear: both;
-}
-
-.facebook {
-	height: 64px;
 }
 
 .facebook a {
@@ -294,9 +286,9 @@ aside p {
 	font-size: 1em;
 	padding-left: 74px;
 	line-height: 64px;
+	margin: 1.2em 0;
 	margin-right: 3.9%;
 	float: right;
-	display: inline-block;
 }
 
 /* ---- Mobile Styles ---- */
@@ -738,6 +730,16 @@ aside p {
 .silhouettes {
 	height: 175px;
 	background: url(../_images/silhouettes/silhouettes.png) no-repeat center center;	
+}
+
+/* ---- Footer Styles ---- */
+#pageFooter p {
+	font-size: 1.2em;
+	margin: .8em 0;
+}
+
+.facebook a {
+	font-size: 1.2em;	
 }
 
 }
