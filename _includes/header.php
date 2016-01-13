@@ -8,7 +8,7 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link href="_css/main.css" rel="stylesheet" media="screen, projection">
+<link href="_css/main.min.css" rel="stylesheet" media="screen, projection">
 </head>
 <body>
 <?php include_once("analyticstracking.php") ?>
