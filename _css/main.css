@@ -92,6 +92,7 @@ em {
 }
 
 .note {
+	color: rgb(220, 0, 3);
 	color: rgba(220, 0, 3, .8);
 	font-style: italic;
 }
@@ -221,11 +222,14 @@ a[href$=".pdf"] {
 /* ---- Aside Styles ---- */
 aside {
 	margin: 0 0 2em;
+	background: rgb(220, 0, 3);
 	background: rgba(220, 0, 3, .8);
 }
 
 aside h3 {
+	color: rgb(250, 254, 255);
 	color: rgba(250, 254, 255, .9);
+	border-bottom: 2px solid rgb(250, 254, 255);
 	border-bottom: 2px solid rgba(250, 254, 255, .9);
 }
 
@@ -233,6 +237,7 @@ aside p {
 	font-size: 1em;
 	margin: 1.2em 0;
 	color: rgba(250, 254, 255, .9);
+	color: rgb(250, 254, 255);
 }
 
 /* ---- Gallery Styles ---- */
