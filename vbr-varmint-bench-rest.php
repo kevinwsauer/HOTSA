@@ -33,5 +33,8 @@
 </article><!-- #vbr -->
 </section><!-- #main -->
 <!-- End Main Section -->
+<!-- Start Silhouettes Section -->
+<div class="silhouettes"></div><!-- .silhouettes -->
+<!-- End Silhouettes Section -->
 <!-- Include Footer File -->
 <?php include_once("_includes/footer.php"); ?>

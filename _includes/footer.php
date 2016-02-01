@@ -1,6 +1,3 @@
-<!-- Start Silhouettes Section -->
-<div class="silhouettes"></div><!-- .silhouettes -->
-<!-- End Silhouettes Section -->
 <!-- Start Footer Section -->
 <footer id="pageFooter" class="cf">
 <p>&copy; <?php echo date("Y"); ?> Heart of Texas Silhouette Association</p>
