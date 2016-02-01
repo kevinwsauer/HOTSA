@@ -28,7 +28,7 @@
 <a href="_documents/2016_HOTSA_Membership_Form.pdf" title="Membership Form" download>Membership Form</a>
 <br>
 <br>
-Email: hvinson@verizon.net
+Email: hvinson2@verizon.net
 <br>
 <br>
 Thank you,
