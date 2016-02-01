@@ -314,9 +314,9 @@ body {
 /* ---- Header Styles ---- */
 header h1 {
 	font-size: 2.2em;
-	padding-left: 66px;
-	line-height: 50px;
-	width: 196px;
+	padding-left: 91px;
+	line-height: 75px;
+	width: 192px;
 	margin: 0 auto;
 	background: url(../_images/sm_hotsaLogo.png) no-repeat left center;
 }
@@ -450,9 +450,9 @@ body {
 /* ---- Header Styles ---- */
 header h1 {
 	font-size: 3.2em;
-	padding-left: 116px;
-	line-height: 100px;
-	width: 276px;
+	padding-left: 141px;
+	line-height: 125px;
+	width: 280px;
 	margin: 0 auto;
 	background: url(../_images/hotsaLogo.png) no-repeat left center;
 }
@@ -605,8 +605,8 @@ header {
 
 header h1 {
 	font-size: 3.2em;
-	padding-left: 116px;
-	line-height: 100px;
+	padding-left: 141px;
+	line-height: 125px;
 	margin-right: .5em;
 	float: left;
 	margin-left: 3.9%;/* fixes nasty 1px header fitting problem*/
@@ -617,7 +617,7 @@ header h1 {
 header h2 {
 	font-size: 1.6em;
 	float: left;
-	line-height: 100px;
+	line-height: 125px;
 }
 
 /* ---- Nav Styles ---- */
