@@ -25,7 +25,11 @@
 </tr>
 <tr>
 <td>President: </td>
-<td>Pending</td>
+<td>Jack Garrett</td>
+</tr>
+<tr>
+<td>Vice President: </td>
+<td>David Barnes</td>
 </tr>
 <tr>
 <td>Secretary: </td>
@@ -34,7 +38,7 @@
 </table>
 <table id="directors">
 <tr>
-<th colspan="2">Directors: </th>
+<th colspan="2">Discipline Directors: </th>
 </tr>
 <tr>
 <td>BPCR: </td>
@@ -46,15 +50,23 @@
 </tr>
 <tr>
 <td>22 BPCR: </td>
-<td>Kenny Tebbe</td>
+<td>Walt Ballew</td>
 </tr>
 <tr>
-<td>Clays: </td>
-<td>Danny Henderson</td>
+<td>Clays &amp;<br>
+VBR (Varmint Bench Rest): </td>
+<td>Danny Henderson<br>
+David Brady</td>
 </tr>
 <tr>
 <td>Lever Action: </td>
-<td>Rick Mariott</td>
+<td>Curtis Smith</td>
+</tr>
+<tr>
+<td>Directors at large: </td>
+<td>Sean Stratton<br>
+David Brady<br>
+Humberto "Bert" Hernandez</td>
 </tr>
 </table>
 </article><!-- #officials-directors -->
