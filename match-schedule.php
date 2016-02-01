@@ -21,13 +21,13 @@
 <h2>2016 Match Schedule</h2>
 <p>The general schedule is as follows but check with the match directors before making the trip if you are not sure.</p>
 <p>1<sup>st</sup> Saturday of the month: BPCR Big Bore<br>
-Match Director Ken Tebbe</p>
+Match Director: Ken Tebbe</p>
 <p>2<sup>nd</sup> Sunday of the month: High Power Silhouette and 22 Silhouette<br>
-Match Director Jack Garrett</p>
+Match Director: Jack Garrett</p>
 <p>3<sup>rd</sup> Saturday of the month: 22 Rim-fire BPCR<br>
-Match Director Walt Ballew</p>
+Match Director: Walt Ballew</p>
 <p>4<sup>th</sup> Saturday of the month: Clays or VBR (Varmint Bench Rest)<br>
-Match directors: Danny Henderson and David Brady<br>
+Match Directors: Danny Henderson and David Brady<br>
 <span class="note">&#40;Note: Don't drive out unless you've received a confirmation email or call.  This emerging game is still being developed and the schedule should line out in a few months and be more consistent.&#41;</span></p>
 <p>4<sup>th</sup> Sunday of the month: Lever Action Silhouette<br>
 Match Director: Curtis Smith</p>
