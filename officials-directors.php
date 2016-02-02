@@ -55,7 +55,7 @@
 <tr>
 <td>Clays &amp;<br>
 VBR (Varmint Bench Rest): </td>
-<td>Danny Henderson<br>
+<td>Denny Henderson<br>
 David Brady</td>
 </tr>
 <tr>
