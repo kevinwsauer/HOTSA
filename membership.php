@@ -8,6 +8,7 @@
 <li><a href="membership.php" title="Membership" class="current">Membership</a><!-- .current --></li>
 <li><a href="match-schedule.php" title="Match Schedule">Match Schedule</a></li>
 <li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
+<li><a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a></li>
 <li><a href="for-sale.php" title="For Sale">For Sale</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->

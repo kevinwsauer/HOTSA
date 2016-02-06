@@ -8,6 +8,7 @@
 <li><a href="membership.php" title="Membership">Membership</a></li>
 <li><a href="match-schedule.php" title="Match Schedule" class="current">Match Schedule</a><!-- .current --></li>
 <li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
+<li><a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a></li>
 <li><a href="for-sale.php" title="For Sale">For Sale</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
@@ -31,6 +32,7 @@ Match Directors: Denny Henderson &amp; David Brady<br>
 <span class="note">&#40;Note: Don't drive out unless you've received a confirmation email or call.  This emerging game is still being developed and the schedule should line out in a few months and be more consistent.&#41;</span></p>
 <p>4<sup>th</sup> Sunday of the month: Lever Action Silhouette<br>
 Match Director: Curtis Smith</p>
+<p>For details on how to find our range click the <a href="directions-map.php" title="Directions & Map">Directions &amp; Map</a> link for directions.</p>
 </article><!-- #match-schedule -->
 </section><!-- #main -->
 <!-- End Main Section -->
