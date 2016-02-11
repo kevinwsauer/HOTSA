@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="<?php $description; ?>">
-<meta name="keywords" content="<?php $keywords; ?>">
+<meta name="description" content="<?php echo $description; ?>">
+<meta name="keywords" content="<?php echo $keywords; ?>">
 <title>Heart of Texas Silhouette Association<?php echo $title; ?></title>
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
