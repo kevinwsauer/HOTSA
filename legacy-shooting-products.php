@@ -36,6 +36,7 @@
 </div><!-- .gallery-images -->
 </section><!-- .gallery-container -->
 <p>Visit <a href="http://legacyshootingproducts.com/" title="Legacy Shooting Products">LegacyShootingProducts.com</a></p>
+<p><a href="galleries.php" title="Galleries"><i class="fa fa-arrow-circle-o-left"></i> Back to Galleries</a></p>
 </article><!-- #legacy-shooting-products -->
 </section><!-- #main -->
 <!-- End Main Section -->

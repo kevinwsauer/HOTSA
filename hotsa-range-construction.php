@@ -51,6 +51,7 @@
 <img src="_images/gallery/hotsa-range-construction/sm_035.jpg" alt="HOTSA Range Construction 15"></a>
 </div><!-- .gallery-images -->
 </section><!-- .gallery-container -->
+<p><a href="galleries.php" title="Galleries"><i class="fa fa-arrow-circle-o-left"></i> Back to Galleries</a></p>
 </article><!-- #hotsa-range-construction -->
 </section><!-- #main -->
 <!-- End Main Section -->
