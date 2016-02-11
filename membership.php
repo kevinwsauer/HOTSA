@@ -7,9 +7,9 @@
 <li><a href="officials-directors.php" title="Officials &amp; Directors">Officials &amp; Directors</a></li>
 <li><a href="membership.php" title="Membership" class="current">Membership</a><!-- .current --></li>
 <li><a href="match-schedule.php" title="Match Schedule">Match Schedule</a></li>
-<li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
 <li><a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a></li>
-<li><a href="for-sale.php" title="For Sale">For Sale</a></li>
+<li><a href="galleries.php" title="Galleries">Galleries</a></li>
+<li><a href="links.php" title="Links">Links</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
 <!-- End Navigation Section -->

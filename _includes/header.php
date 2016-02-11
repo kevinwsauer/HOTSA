@@ -8,6 +8,7 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <!-- Non-minified version -->
 <!--<link href="_css/main.css" rel="stylesheet" media="screen, projection">-->
 <link href="_css/main.min.css" rel="stylesheet" media="screen, projection">

@@ -7,9 +7,9 @@
 <li><a href="officials-directors.php" title="Officials &amp; Directors">Officials &amp; Directors</a></li>
 <li><a href="membership.php" title="Membership">Membership</a></li>
 <li><a href="match-schedule.php" title="Match Schedule" class="current">Match Schedule</a><!-- .current --></li>
-<li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
 <li><a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a></li>
-<li><a href="for-sale.php" title="For Sale">For Sale</a></li>
+<li><a href="galleries.php" title="Galleries">Galleries</a></li>
+<li><a href="links.php" title="Links">Links</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
 <!-- End Navigation Section -->
@@ -29,7 +29,9 @@ Match Director: Jack Garrett</p>
 Match Director: Walt Ballew</p>
 <p>4<sup>th</sup> Saturday of the month: Clays or VBR (Varmint Bench Rest)<br>
 Match Directors: Denny Henderson &amp; David Brady<br>
-<span class="note">&#40;Note: Don't drive out unless you've received a confirmation email or call.  This emerging game is still being developed and the schedule should line out in a few months and be more consistent.&#41;</span></p>
+<span class="note">&#40;Note: Don't drive out unless you've received a confirmation email or call.  This emerging game is still being developed and the schedule should line out in a few months and be more consistent.&#41;</span>
+<br>
+For more information on VBR (Varmint Bench Rest) click the <a href="vbr-varmint-bench-rest.php" title="VBR (Varmint Bench Rest)">VBR (Varmint Bench Rest)</a> link.</p>
 <p>4<sup>th</sup> Sunday of the month: Lever Action Silhouette<br>
 Match Director: Curtis Smith</p>
 <p>For details on how to find our range click the <a href="directions-map.php" title="Directions & Map">Directions &amp; Map</a> link for directions.</p>

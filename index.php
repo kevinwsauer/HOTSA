@@ -1,5 +1,5 @@
 <!-- Declare Title -->
-<?php $title = ""; ?>
+<?php $title = " - Home"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->
@@ -7,9 +7,9 @@
 <li><a href="officials-directors.php" title="Officials &amp; Directors">Officials &amp; Directors</a></li>
 <li><a href="membership.php" title="Membership">Membership</a></li>
 <li><a href="match-schedule.php" title="Match Schedule">Match Schedule</a></li>
-<li><a href="vbr-varmint-bench-rest.php" title="VBR: Varmint Bench Rest">VBR: Varmint Bench Rest</a></li>
 <li><a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a></li>
-<li><a href="for-sale.php" title="For Sale">For Sale</a></li>
+<li><a href="galleries.php" title="Galleries">Galleries</a></li>
+<li><a href="links.php" title="Links">Links</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
 <!-- End Navigation Section -->
@@ -28,7 +28,7 @@
 <p>For details on how to find our range click the <a href="directions-map.php" title="Directions & Map">Directions &amp; Map</a> link for directions.</p>
 </article><!-- #home -->
 <!-- Include Announcements File -->
-<?php include("_includes/announcements.php"); ?>
+<?php include("_includes/announcement-redirect.php"); ?>
 </section><!-- #main .cf -->
 <!-- End Main Section -->
 <!-- Include Footer File -->

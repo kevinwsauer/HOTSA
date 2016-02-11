@@ -37,6 +37,14 @@ a:hover {
 	cursor: crosshair;
 }
 
+a.image-link {
+	border-bottom: none;	
+}
+
+a.image-link:hover {
+	border-bottom: none;
+}
+
 html {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#979390+0,313133+100 */
 	background: rgb(151,147,144); /* Old browsers */
@@ -221,49 +229,48 @@ a[href$=".pdf"] {
 
 /* ---- Announcements Styles ---- */
 div.announcements-wrapper {
-	margin: 2em 0 0;
 	background: rgb(220, 0, 3);
 }
 
-aside#announcements {	
+aside#announcements-redirect {	
 	background: rgb(250, 254, 255);
 }
 
-aside#announcements h3 {
+aside#announcements-redirect h2 {
 	color: rgb(28, 25, 31);
 	border-bottom: 2px solid rgb(28, 25, 31);
 }
 
-aside#announcements p {
+aside#announcements-redirect p {
 	font-size: 1em;
 	margin: 1.2em 0;
 }
 
-/* ---- Gallery Styles ---- */
-#for-sale section {
+/* ---- Galleries Styles ---- */
+section.gallery-container {
 	background: rgb(49,49, 51);	
 	padding-bottom: 30px;
 }
 
-.gallery {
+div.gallery-images {
 	margin: 0 auto;	
 }
 
-.gallery a {
+div.gallery-images a {
 	display: inline-block;
 	border-bottom: none;
 }
 
-.gallery a:hover {
+div.gallery-images a:hover {
 	border-bottom: none;
 }
 
-.gallery img {
+div.gallery-images img {
 	margin: 30px 15px 0;
 	border: 5px solid rgb(250, 254, 255);
 }
 
-.gallery img:hover {
+div.gallery-images img:hover {
 	border: 5px solid rgb(40, 110, 160);	
 }
 
@@ -425,24 +432,28 @@ div.announcements-wrapper {
 	padding: 2.9% 0;	
 }
 
-aside#announcements {
+aside#announcements-redirect {
 	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.9%;
 }
 
-aside#announcements h3 {
+aside#announcements-redirect h2 {
 	font-size: 2em;
 	margin-bottom: 0;
 }
 
-/* ---- Gallery Styles ---- */
-#for-sale section {
+article#announcements h3 {
+	font-size: 1.5em;
+}
+
+/* ---- Galleries Styles ---- */
+section.gallery-container {
 	margin-top: .1em;	
 }
 
-.gallery {
+div.gallery-images {
 	width: 290px;
 }
 
@@ -546,7 +557,7 @@ button.menu-toggle {
 	height: 175px;
 }
 
-.home {
+.home, .announcements, .links, .gallery {
 	background: rgb(49, 49, 51) url(../_images/banner/sm_home.jpg) no-repeat center center;	
 }
 
@@ -607,24 +618,28 @@ div.announcements-wrapper {
 	padding: 2.9% 0;	
 }
 
-aside#announcements {
+aside#announcements-redirect {
 	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.9%;
 }
 
-aside#announcements h3 {
+aside#announcements-redirect h2 {
 	font-size: 2em;
 	margin-bottom: 0;
 }
 
-/* ---- Gallery Styles ---- */
-#for-sale section {
+article#announcements h3 {
+	font-size: 1.5em;	
+}
+
+/* ---- Galleries Styles ---- */
+section.gallery-container {
 	margin-top: .1em;	
 }
 
-.gallery {
+div.gallery-images {
 	width: 290px;
 }
 
@@ -700,7 +715,7 @@ button.menu-toggle {
 	height: 175px;	
 }
 
-.home {
+.home, .announcements, .links, .gallery {
 	background: rgb(49, 49, 51) url(../_images/banner/home.jpg) no-repeat center center;	
 }
 
@@ -775,24 +790,28 @@ div.announcements-wrapper {
 	padding: 2%;	
 }
 	
-aside#announcements {
+aside#announcements-redirect {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 1.9%;
 }
 
-aside#announcements h3 {
+aside#announcements-redirect h2 {
 	font-size: 2.8em;
 	margin-bottom: .1em;
 }
 
-aside#announcements p {
+aside#announcements-redirect p {
 	font-size: 1.2em;
 	margin: .8em 0;
 }
 
-/* ---- Gallery Styles ---- */
-.gallery {
+article#announcements h3 {
+	font-size: 2em;	
+}
+
+/* ---- Galleries Styles ---- */
+div.gallery-images {
 	width: 880px;
 }
 
