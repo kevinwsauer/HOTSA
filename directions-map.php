@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Directions &amp; Map"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's location and directions to the shooting range.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, Directions";
+$title = " - Directions &amp; Map"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

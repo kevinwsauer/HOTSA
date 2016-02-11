@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Home"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "Heart of Texas Silhouette Association is a private rifle range dedicated to the sport of silhouette shooting.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas";
+$title = " - Home"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

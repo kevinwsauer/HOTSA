@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Legacy Shooting Products"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's Legacy Shooting Products photo gallery.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas";
+$title = " - Legacy Shooting Products"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

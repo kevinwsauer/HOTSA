@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Match Schedule"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's shooting match schedule.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, Shooting Match Schedule";
+$title = " - Match Schedule"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

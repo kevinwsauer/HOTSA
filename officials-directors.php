@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Officials &amp; Directors"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's Officials &amp; Directors information.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, Officials, Directors";
+$title = " - Officials &amp; Directors"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

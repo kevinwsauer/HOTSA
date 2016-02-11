@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Galleries"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's photo galleries.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas";
+$title = " - Galleries"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

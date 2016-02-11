@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - Membership"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "Heart of Texas Silhouette Association's membership info.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, Membership";
+$title = " - Membership"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

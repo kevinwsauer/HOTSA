@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - HOTSA Range Construction"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's shooting range construction photo gallery.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, Shooting Range Construction";
+$title = " - HOTSA Range Construction"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->

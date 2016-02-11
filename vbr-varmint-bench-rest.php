@@ -1,5 +1,8 @@
-<!-- Declare Title -->
-<?php $title = " - VBR: Varmint Bench Rest"; ?>
+<!-- Declare Description, Keywords and Title -->
+<?php 
+$description = "HOTSA - Heart of Texas Silhouette Association's VBR (Varmint Bench Rest) information.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, Varmint Bench Rest";
+$title = " - VBR: Varmint Bench Rest"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
 <!-- Continue Navigation Section -->
