@@ -23,6 +23,13 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="02-15-2016">
+<h3>February 15, 2016</h3>
+<p>We will have our second <strong>BIG</strong> workday this Saturday the 20th starting at 9am, to complete all the rail movement and crafting. We will pour concrete on the firing line, set stands for gongs at the 100, 200, 300, 600 and 750 yard berms. Please come and lend a hand but bring your tools; shovel, rake, post hole digger, leather gloves, portable welder and anything you might think is helpful. We might be able to get all the rails set, new firing line poured, and final spruce ups complete then resume matches in March.
+<br>
+<br>  
+Contact Kenny Tebbe if you have any questions.</p>
+</section><!-- #02-15-2016 -->
 <section id="02-10-2016">
 <h3>February 10, 2016</h3>
 <p>With the bull dozing work completed at the HOTSA range we need to have some workdays. So this Saturday, the 13th Jack Garrett and David Barnes will host a workday starting around 9am with the main task being moving and welding up the new Chicken rails. We will have a second <strong>BIG</strong> workday on Saturday the 20th starting at 9am too, to complete all the rail movement and crafting. We will pour concrete on the firing line, set stands for gongs at the 100, 200, 300, 600 and 750 yard berms. Please come and lend a hand but bring your tools; shovel, rake, post hole digger, leather gloves, portable welder and anything you might think is helpful. We might be able to get all the rails set, new firing line poured, and final spruce ups complete then resume matches in March.
