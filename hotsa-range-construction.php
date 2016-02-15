@@ -52,6 +52,12 @@ $title = " - HOTSA Range Construction"; ?>
 <img src="_images/gallery/hotsa-range-construction/sm_034.jpg" alt="HOTSA Range Construction 14"></a>
 <a href="_images/gallery/hotsa-range-construction/035.jpg" title="HOTSA Range Construction 15">
 <img src="_images/gallery/hotsa-range-construction/sm_035.jpg" alt="HOTSA Range Construction 15"></a>
+<a href="_images/gallery/hotsa-range-construction/036.jpg" title="HOTSA Range Construction 16">
+<img src="_images/gallery/hotsa-range-construction/sm_036.jpg" alt="HOTSA Range Construction 16"></a>
+<a href="_images/gallery/hotsa-range-construction/037.jpg" title="HOTSA Range Construction 17">
+<img src="_images/gallery/hotsa-range-construction/sm_037.jpg" alt="HOTSA Range Construction 17"></a>
+<a href="_images/gallery/hotsa-range-construction/038.jpg" title="HOTSA Range Construction 18">
+<img src="_images/gallery/hotsa-range-construction/sm_038.jpg" alt="HOTSA Range Construction 18"></a>
 </div><!-- .gallery-images -->
 </section><!-- .gallery-container -->
 <p><a href="galleries.php" title="Galleries"><i class="fa fa-arrow-circle-o-left"></i> Back to Galleries</a></p>
