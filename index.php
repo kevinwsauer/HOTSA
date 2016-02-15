@@ -1,7 +1,7 @@
 <!-- Declare Description, Keywords and Title -->
 <?php 
-$description = "Heart of Texas Silhouette Association is a private rifle range dedicated to the sport of silhouette shooting.";
-$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas";
+$description = "The Heart of Texas Silhouette Association, also known as HOTSA, is a private, members only, rifle range and gun club located just an hour drive from either the Dallas/Ft. Worth area or Waco in the heart of Central Texas.";
+$keywords = "Silhouette Shooting, Shooting Range, Gun Club, Long Range Shooting, NRA Sanctioned, Black Powder, Central Texas, BPCR, High Power, 22, Varmit, Silhouette";
 $title = " - Home"; ?>
 <!-- Include Header File -->
 <?php include_once("_includes/header.php"); ?>
@@ -23,11 +23,9 @@ $title = " - Home"; ?>
 <section id="main" class="cf" role="main">
 <article id="home" role="contentinfo">
 <h2>Welcome</h2>
-<p>Heart of Texas Silhouette Association is a private rifle range dedicated to the sport of silhouette shooting. We hold NRA sanctioned BPCR silhouette matches the first Saturday of the month, weather permitting.  The match is usually a 40 shot format.</p>
-<p>On the third Saturday of each month there is a 22 BPCRA match. This match is usually a 40 shot format.</p>
-<p>In the fall, registration begins about 8:00am with the match commencing at 9:00am.  In the summer, the match will begin about 8:30am.</p>
-<p>Please check the website, or contact the match director prior to the match to ensure the match will take place, as weather and other factors can occasionally result in canceling of a scheduled match.</p>
-<p>Check the <a href="match-schedule.php" title="Match Schedule">Match Schedule</a> page for additional shooting disciplines matches and directors contact info.</p>
+<p>The Heart of Texas Silhouette Association, also known as HOTSA, is a private, members only, rifle range and gun club located just an hour drive from either the Dallas/Ft. Worth area or Waco in the heart of Central Texas.</p>
+<p>HOTSA is dedicated to the sport of silhouette; BPCR, High Power, 22, and Varmint shooting sports. Our range features berms from 25 to 750 yards that accommodate pistol shooting to long range rifle shooting. Our main field boasts berms at 200, 300, 385 &amp; 500 meters for all silhouette disciplines. Our members have full access to the range year round regardless of match schedules with live fire allowed during daylight hours only; <strong>no night shooting allowed</strong>.</p>
+<p>HOTSA holds NRA sanctioned BPCR silhouette matches the first Saturday of each month, and 22 BPCRA matches the third Saturday of each month. These matches are weather permitting and are usually a 40 shot format. In the fall, registration begins about 8:00am with the match commencing at 9:00am.  In the summer, the match will begin about 8:30am. Please check the website, or contact the match director prior to the match to ensure the match will take place, as weather and other factors can occasionally result in canceling of a scheduled match. Check the <a href="match-schedule.php" title="Match Schedule">Match Schedule</a> page for additional shooting disciplines matches and directors contact info.</p>
 <p>For details on how to find our range click the <a href="directions-map.php" title="Directions & Map">Directions &amp; Map</a> link for directions.</p>
 </article><!-- #home -->
 <!-- Include Announcements File -->
