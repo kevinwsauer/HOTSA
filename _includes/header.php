@@ -16,6 +16,7 @@
 <link href="_css/main.min.css" rel="stylesheet" media="screen, projection">
 </head>
 <body>
+<div class="site-wrapper">
 <?php include_once("analyticstracking.php") ?>
 <!-- Start Header Section -->
 <header id="pageHeader" role="banner">

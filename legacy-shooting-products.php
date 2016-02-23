@@ -22,20 +22,13 @@ $title = " - Legacy Shooting Products"; ?>
 <h2>Legacy Shooting Products</h2>
 <section class="gallery-container">
 <div class="gallery-images">
-<a href="_images/gallery/legacy-shooting-products/table1.jpg" title="Table Image 1">
-<img src="_images/gallery/legacy-shooting-products/sm_table1.jpg" alt="Table Image 1"></a>
-<a href="_images/gallery/legacy-shooting-products/table2.jpg" title="Table Image 2">
-<img src="_images/gallery/legacy-shooting-products/sm_table2.jpg" alt="Table Image 2"></a>
-<a href="_images/gallery/legacy-shooting-products/table3.jpg" title="Table Image 3">
-<img src="_images/gallery/legacy-shooting-products/sm_table3.jpg" alt="Table Image 3"></a>
-<a href="_images/gallery/legacy-shooting-products/table4.jpg" title="Table Image 4">
-<img src="_images/gallery/legacy-shooting-products/sm_table4.jpg" alt="Table Image 4"></a>
-<a href="_images/gallery/legacy-shooting-products/table5.jpg" title="Table Image 5">
-<img src="_images/gallery/legacy-shooting-products/sm_table5.jpg" alt="Table Image 5"></a>
-<a href="_images/gallery/legacy-shooting-products/table6.jpg" title="Table Image 6">
-<img src="_images/gallery/legacy-shooting-products/sm_table6.jpg" alt="Table Image 6"></a>
-<a href="_images/gallery/legacy-shooting-products/table7.jpg" title="Table Image 7">
-<img src="_images/gallery/legacy-shooting-products/sm_table7.jpg" alt="Table Image 7"></a>
+<img src="_images/gallery/legacy-shooting-products/table1_sm.jpg" alt="Table Image 1">
+<img src="_images/gallery/legacy-shooting-products/table2_sm.jpg" alt="Table Image 2">
+<img src="_images/gallery/legacy-shooting-products/table3_sm.jpg" alt="Table Image 3">
+<img src="_images/gallery/legacy-shooting-products/table4_sm.jpg" alt="Table Image 4">
+<img src="_images/gallery/legacy-shooting-products/table5_sm.jpg" alt="Table Image 5">
+<img src="_images/gallery/legacy-shooting-products/table6_sm.jpg" alt="Table Image 6">
+<img src="_images/gallery/legacy-shooting-products/table7_sm.jpg" alt="Table Image 7">
 </div><!-- .gallery-images -->
 </section><!-- .gallery-container -->
 <p>Visit <a href="http://legacyshootingproducts.com/" title="Legacy Shooting Products">LegacyShootingProducts.com</a></p>

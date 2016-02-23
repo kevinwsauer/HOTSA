@@ -27,7 +27,7 @@ $title = " - Links"; ?>
 <a href="http://www.shilohsharps.com" title="Shiloh Sharps" class="image-link"><img src="_images/links/buff_logo.png" alt="Shiloh Sharps"></a>
 <br>
 <br>
-<a href="http://www.montanavintagearms.com" title="Montana Vintage Arms" class="image-link"><img src="_images/links/mtva_logo_sm.png" alt="Montana Vintage Arms"></a>
+<a href="http://www.montanavintagearms.com" title="Montana Vintage Arms" class="image-link"><img src="_images/links/mtva_logo.png" alt="Montana Vintage Arms"></a>
 <br>
 <br>
 <a href="http://www.legacyshootingproducts.com" title="Legacy Shooting Products">Legacy Shooting Products</a>

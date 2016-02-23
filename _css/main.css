@@ -55,13 +55,16 @@ html {
 }
 
 body {
-	background: 	rgb(250, 254, 255);
-	color: rgb(28, 25, 31);
 	font: 100% Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	line-height: 1.5;
 	position: relative;
+}
+
+.site-wrapper {
+	background: 	rgb(250, 254, 255);
+	color: rgb(28, 25, 31);	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -310,7 +313,7 @@ html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h
 	-webkit-text-size-adjust:none;
 }
 
-body {
+.site-wrapper {
 	width: 90%;
 	margin: 0 auto 2em;
 	min-width: 320px;
@@ -324,7 +327,7 @@ header h1 {
 	line-height: 75px;
 	width: 192px;
 	margin: 0 auto;
-	background: url(../_images/sm_hotsaLogo.png) no-repeat left center;
+	background: url(../_images/hotsaLogo_sm.png) no-repeat left center;
 }
 
 header h2 {
@@ -423,7 +426,7 @@ div.google-maps iframe {
 
 div.map-image {
 	height: 388px;
-	background: url(../_images/map/sm_map.jpg)	no-repeat center center;
+	background: url(../_images/map/map_sm.jpg)	no-repeat center center;
 }
 
 /* ---- Announcements Styles ---- */
@@ -460,7 +463,7 @@ div.gallery-images {
 /* ---- Silhouette Styles ---- */
 .silhouettes {
 	height: 69px;
-	background: url(../_images/silhouettes/sm_silhouettes.png) no-repeat center center;	
+	background: url(../_images/silhouettes/silhouettes_sm.png) no-repeat center center;	
 }
 
 .facebook a {
@@ -473,7 +476,7 @@ div.gallery-images {
 /* ---- Tablet Styles ---- */
 @media only screen and (min-width:481px) and (max-width:768px) {
 
-body {
+.site-wrapper {
 	width: 90%;
 	margin: 0 auto 2em;
 	min-width: 500px;
@@ -558,27 +561,27 @@ button.menu-toggle {
 }
 
 .home, .announcements, .links, .gallery {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_home.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/home_sm.jpg) no-repeat center center;	
 }
 
 .officials-directors {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_officials-directors.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/officials-directors_sm.jpg) no-repeat center center;	
 }
 
 .membership {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_membership.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/membership_sm.jpg) no-repeat center center;	
 }
 
 .matchSchedule {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_match.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/match_sm.jpg) no-repeat center center;	
 }
 
 .vbr {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_vbr.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/vbr_sm.jpg) no-repeat center center;	
 }
 
 .directions-map {
-	background: rgb(49, 49, 51) url(../_images/banner/sm_directions-map.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/directions-map_sm.jpg) no-repeat center center;	
 }
 
 /* ---- Article Styles ---- */
@@ -610,7 +613,7 @@ div.google-maps iframe {
 }	
 div.map-image {
 	height: 582px;
-	background: url(../_images/map/md_map.jpg)	no-repeat center center;
+	background: url(../_images/map/map_md.jpg)	no-repeat center center;
 }
 
 /* ---- Announcements Styles ---- */
@@ -646,14 +649,14 @@ div.gallery-images {
 /* ---- Silhouette Styles ---- */
 .silhouettes {
 	height: 104px;
-	background: url(../_images/silhouettes/md_silhouettes.png) no-repeat center center;	
+	background: url(../_images/silhouettes/silhouettes_md.png) no-repeat center center;	
 }
 
 }
 /* ---- Desktop Styles ---- */
 @media only screen and (min-width:769px) {
 
-body {
+.site-wrapper {
 	width: 90%;
 	margin: 0 auto 4em;
 	min-width: 1024px;
