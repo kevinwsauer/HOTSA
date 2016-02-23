@@ -8,7 +8,6 @@ Light Gray - Hex #979390; rgb(151, 147, 144);
 Dark Gray - Hex #313133; rgb(49,49, 51);
 Black -  Hex #1c191f; rgb(28, 25, 31);*/
 
-
 /* ---- Global styles ---- */
 
 /* ---- CSS Reset ---- */
@@ -62,11 +61,6 @@ body {
 	position: relative;
 }
 
-.site-wrapper {
-	background: 	rgb(250, 254, 255);
-	color: rgb(28, 25, 31);	
-}
-
 h1, h2, h3, h4, h5, h6 {
 	font-family: Georgia, "Times New Roman", serif;
 }
@@ -100,6 +94,15 @@ em {
  */
 .cf {
     *zoom: 1;
+}
+
+.clear {
+	clear: both;	
+}
+
+.site-wrapper {
+	background: 	rgb(250, 254, 255);
+	color: rgb(28, 25, 31);	
 }
 
 .note {
@@ -212,8 +215,9 @@ article table th, article table td {
 	padding: 2%;
 }
 
-.silhouettes-details {
-	margin: 0 auto;	
+/* ---- Silhouette Details Styles ---- */
+article .silhouette-details {
+	font-size: 1em;
 }
 
 .prairiedog, .armadillo, .coyote, .boar {
@@ -408,10 +412,6 @@ article h2 {
 	margin-bottom: 0;
 }
 
-.silhouettes-details {
-	width: 80%;
-}
-
 /* ---- Map Styles ---- */
 div.google-maps {
 	width: 300px;
@@ -596,10 +596,6 @@ article h2 {
 	margin-bottom: 0;
 }
 
-.silhouettes-details {
-	width: 75%;
-}
-
 /* ---- Map Styles ---- */
 div.google-maps {
 	width: 450px;
@@ -742,7 +738,6 @@ button.menu-toggle {
 	background: rgb(49, 49, 51) url(../_images/banner/directions-map.jpg) no-repeat center center;	
 }
 
-
 /* ---- Article Styles ---- */
 article {
 	padding: 0 3.9%;
@@ -767,8 +762,23 @@ article table th {
 	font-size: 1.4em;	
 }
 
-.silhouettes-details {
-	width: 40%;
+/* ---- Silhouette Details Styles ---- */
+article .row {
+	height: 16.375em;
+}
+
+article .silhouette-details {
+	width: 48%;
+	float: left;
+	font-size: 1.2em;
+}
+
+article .silhouette-details:nth-child(odd) {
+	padding-right: 1%;	
+}
+
+article .silhouette-details:nth-child(even) {
+	padding-left: 1%;	
 }
 
 /* ---- Map Styles ---- */
