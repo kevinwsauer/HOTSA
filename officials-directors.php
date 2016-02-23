@@ -48,7 +48,7 @@ $title = " - Officials &amp; Directors"; ?>
 <td>Kenny Tebbe<br>email: ken_tebbe@baylor.edu</td>
 </tr>
 <tr>
-<td>High Power:<br>Jack Garrett</td>
+<td>High Power:</td>
 <td>Jack Garrett<br>email: jgarrett@centurylink.net</td>
 </tr>
 <tr>
