@@ -17,10 +17,8 @@ User-agent: *
 Crawl-delay: 10
 # Directories
 Disallow: /_css/
-Disallow: /_documents/
-Disallow: /_images/
-Disallow: /_includes/
 Disallow: /_js/
 # Files
 Disallow: /BingSiteAuth.xml
 Disallow: /README.md
+Disallow: /_includes/analyticstracking.php
