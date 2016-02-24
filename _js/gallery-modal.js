@@ -18,7 +18,7 @@
 				myOverlay.style.position = 'absolute';
 				myOverlay.style.top = 0;
 				myOverlay.style.backgroundColor = 'rgba(0,0,0,0.7)';
-				myOverlay.style.cursor = 'pointer';
+				myOverlay.style.cursor = 'crosshair';
 				
 				//resize and position overlay
 				myOverlay.style.width = window.innerWidth + 'px';

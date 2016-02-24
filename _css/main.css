@@ -227,6 +227,7 @@ article .silhouette-details {
 	padding: 1em 0;
 }
 
+/* --- Document Styles ---- */
 a[href$=".pdf"] { 
 	display: inline-block;
 	background: url(../_images/icon-pdf_32.png) no-repeat left center;
@@ -280,6 +281,7 @@ div.gallery-images img {
 
 div.gallery-images img:hover {
 	border: 5px solid rgb(40, 110, 160);	
+	cursor: url(../_images/magnifying_glass.png), auto;
 }
 
 /* ---- Footer Styles ---- */
