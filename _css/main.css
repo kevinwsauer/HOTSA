@@ -223,8 +223,7 @@ article .silhouette-details {
 
 img.silhouettes {
 	display: block;
-	margin: 0 auto;
-	padding: 1em 0;
+	margin: .8em auto;
 }
 
 /* --- Document Styles ---- */
@@ -754,8 +753,20 @@ article table th {
 }
 
 /* ---- Silhouette Details Styles ---- */
-article .row {
-	height: 16.375em;
+article div.row {
+	margin: .8em 0;	
+}
+
+article div.row:nth-of-type(1) {
+	height: 13.125em;	
+}
+
+article div.row:nth-of-type(2) {
+	height: 16.25em;	
+}
+
+article div.row:nth-of-type(3) {
+	height: 11.25em;	
 }
 
 article .silhouette-details {
@@ -765,11 +776,11 @@ article .silhouette-details {
 }
 
 article .silhouette-details:nth-child(odd) {
-	padding-right: 1%;	
+	margin-right: 1%;	
 }
 
 article .silhouette-details:nth-child(even) {
-	padding-left: 1%;	
+	margin-left: 1%;	
 }
 
 /* ---- Map Styles ---- */
