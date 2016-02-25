@@ -221,7 +221,7 @@ article .silhouette-details {
 	font-size: 1em;
 }
 
-.prairiedog, .armadillo, .coyote, .boar {
+img.silhouettes {
 	display: block;
 	margin: 0 auto;
 	padding: 1em 0;
@@ -463,12 +463,6 @@ div.gallery-images {
 	width: 290px;
 }
 
-/* ---- Silhouette Styles ---- */
-.silhouettes {
-	height: 69px;
-	background: url(../_images/silhouettes/silhouettes_sm.png) no-repeat center center;	
-}
-
 .facebook a {
 	margin-right: 15%;
 	margin-left: 15%;
@@ -643,12 +637,6 @@ section.gallery-container {
 
 div.gallery-images {
 	width: 290px;
-}
-
-/* ---- Silhouette Styles ---- */
-.silhouettes {
-	height: 104px;
-	background: url(../_images/silhouettes/silhouettes_md.png) no-repeat center center;	
 }
 
 }
@@ -829,12 +817,6 @@ article#announcements h3 {
 /* ---- Galleries Styles ---- */
 div.gallery-images {
 	width: 880px;
-}
-
-/* ---- Silhouette Styles ---- */
-.silhouettes {
-	height: 175px;
-	background: url(../_images/silhouettes/silhouettes.png) no-repeat center center;	
 }
 
 /* ---- Footer Styles ---- */

@@ -56,7 +56,7 @@ $title = " - Officials &amp; Directors"; ?>
 <td>Walt Ballew<br>email: </td>
 </tr>
 <tr>
-<td>Clays &amp;<br>VBR (Varmint Bench Rest):</td>
+<td>Clays &amp;<br>VBR &#40;Varmint Bench Rest&#41;:</td>
 <td>Denny Henderson<br>email: drh15t@aol.com<br>David Brady<br>email: chempura@flash.net</td>
 </tr>
 <tr>
