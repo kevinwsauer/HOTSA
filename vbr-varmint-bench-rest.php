@@ -28,7 +28,7 @@ $title = " - VBR: Varmint Bench Rest"; ?>
 <p>So here are the target sizes to give you an idea of how it might look.</p>
 <div class="row">
 <div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/prairiedog.png" alt="Prairie Dog">200 meters: Prairie dog is 2" wide x about 3-1/2" tall.</div><!-- .silhouette-details -->
-<div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/armadillo.png" alt="Armadillo">300 meters: an armadillo about 3" long and only 2-1/2" tall.</div><!-- .silhouette-details -->
+<div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/armadillo.png" alt="Armadillo">300 meters: An armadillo about 3" long and only 2-1/2" tall.</div><!-- .silhouette-details -->
 </div><!-- .row -->
 <div class="row">
 <div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/coyote.png" alt="Coyote">385 meters: Coyote, sitting.  We'll just say he's a real little triangle and might just turn out to be the most challenging target due to his really narrow nose and wide base.</div><!-- .silhouette-details -->
@@ -37,7 +37,7 @@ $title = " - VBR: Varmint Bench Rest"; ?>
 <p class="clear">In order to add additional skills and fun into this new discipline and utilize our new 600 and 750 yard berms, we are adding 2 additional targets that will utilize the existing prairie chicken and pig silhouette targets. The prairie chicken and pig are about 2 MOA each at their respective distances.</p><!-- .clear -->
 <p>So here are the target sizes to give you an idea of how it might look.</p>
 <div class="row">
-<div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/prairiechicken.png" alt="Chicken">600 yards: the prairie chicken.</div><!-- .silhouette-details -->
+<div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/prairiechicken.png" alt="Chicken">600 yards: The prairie chicken.</div><!-- .silhouette-details -->
 <div class="silhouette-details"><img class="silhouettes" src="_images/silhouettes/pig.png" alt="Boar">750 yards: The pig.</div><!-- .silhouette-details -->
 </div><!-- .row -->
 <p class="clear">The targets will be a "hanging target" and the spotter will score "hit" or "miss". There will be 10 shots for score at each target. Therefore, the match will now be 60 rounds <span class="note">&#40;10 rounds &#64; prairie dog, armadillo, coyote, wild boar, prairie chicken and pig&#41;</span>. The entry fee will be &#36;35.00.</p>
