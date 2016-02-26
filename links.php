@@ -23,18 +23,23 @@ $title = " - Links"; ?>
 <section id="main" role="main">
 <article id="links" role="contentinfo">
 <h2>Links</h2>
-<p>
-<a href="http://www.shilohsharps.com" title="Shiloh Sharps" class="image-link"><img src="_images/links/buff_logo.png" alt="Shiloh Sharps"></a>
+<h3>Silhouette Shooting Products</h3>
+<div class="links-container">
+<a href="http://www.legacyshootingproducts.com" title="Legacy Shooting Products" class="image-link"><img src="_images/links/LegacyShootingProductsLogo.svg" alt="Legacy Shooting Products" width="300px"></a>
 <br>
 <br>
-<a href="http://www.montanavintagearms.com" title="Montana Vintage Arms" class="image-link"><img src="_images/links/mtva_logo.png" alt="Montana Vintage Arms"></a>
+<a href="http://www.montanavintagearms.com" title="Montana Vintage Arms" class="image-link"><img src="_images/links/MontanaVintageArmsLogo.svg" alt="Montana Vintage Arms" width="300px"></a>
 <br>
 <br>
-<a href="http://www.legacyshootingproducts.com" title="Legacy Shooting Products">Legacy Shooting Products</a>
+<a href="http://www.shilohsharps.com" title="Shiloh Sharps" class="image-link"><img src="_images/links/ShilohSharpsLogo.svg" alt="Shiloh Sharps" width="300px"></a>
+</div><!-- .links-container -->
+<h3>Silhouette Shooting Clubs</h3>
+<div class="links-container">
+<a href="http://silhouette-texas.us/" title="Central Texas Silueta Association" class="image-link"><img src="_images/links/CentralTexasSiluetaAssociation.svg" alt="Central Texas Silueta Association" width="300px"></a>
 <br>
 <br>
-<a href="http://www.yauponcreek.org" title="Yaupon Creek">Yaupon Creek</a>
-</p>
+<a href="http://www.yauponcreek.org" title="Yaupon Creek Silhouette Association" class="image-link"><img src="_images/links/YauponCreekSilhouetteAssociationLogo.svg" alt="Yaupon Creek Silhouette Association" width="300px"></a>
+</div><!-- .links-container -->
 </article><!-- #links -->
 </section><!-- #main -->
 <!-- End Main Section -->

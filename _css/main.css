@@ -36,14 +36,6 @@ a:hover {
 	cursor: crosshair;
 }
 
-a.image-link {
-	border-bottom: none;	
-}
-
-a.image-link:hover {
-	border-bottom: none;
-}
-
 html {
 	background: rgb(49,49,51);
 }
@@ -229,9 +221,25 @@ img.silhouettes {
 /* --- Document Styles ---- */
 a[href$=".pdf"] { 
 	display: inline-block;
-	background: url(../_images/icon-pdf_32.png) no-repeat left center;
+	background: url(../_images/icon-pdf_32.svg) no-repeat left center;
 	padding-left: 42px; 
 	line-height: 32px;
+	border-bottom: none;
+}
+
+/* ---- Links Styles --- */
+div.links-container {
+	width: 300px;
+	margin: 0 auto;	
+}
+
+a.image-link {
+	margin: 1.2em 0;
+	border-bottom: none;
+	display: block;
+}
+
+a.image-link:hover {
 	border-bottom: none;
 }
 
@@ -280,7 +288,7 @@ div.gallery-images img {
 
 div.gallery-images img:hover {
 	border: 5px solid rgb(40, 110, 160);	
-	cursor: url(../_images/magnifying_glass.png), auto;
+	cursor: url(../_images/magnifying_glass.svg), auto;
 }
 
 /* ---- Footer Styles ---- */
@@ -300,7 +308,7 @@ div.gallery-images img:hover {
 }
 
 .facebook a {
-	background: url(../_images/Facebook.png) no-repeat left center;
+	background: url(../_images/Facebook.svg) no-repeat left center;
 	color: rgb(28, 25, 31);
 	border-bottom: none;
 	font-size: 1em;
@@ -333,7 +341,7 @@ header h1 {
 	line-height: 75px;
 	width: 192px;
 	margin: 0 auto;
-	background: url(../_images/hotsaLogo_sm.png) no-repeat left center;
+	background: url(../_images/hotsaLogo_sm.svg) no-repeat left center;
 }
 
 header h2 {
@@ -414,6 +422,10 @@ article h2 {
 	margin-bottom: 0;
 }
 
+article h3 {
+	font-size: 1.5em;
+}
+
 /* ---- Map Styles ---- */
 div.google-maps {
 	width: 300px;
@@ -428,7 +440,7 @@ div.google-maps iframe {
 
 div.map-image {
 	height: 388px;
-	background: url(../_images/map/map_sm.jpg)	no-repeat center center;
+	background: url(../_images/map/map_sm.svg)	no-repeat center center;
 }
 
 /* ---- Announcements Styles ---- */
@@ -447,10 +459,6 @@ aside#announcements-redirect {
 aside#announcements-redirect h2 {
 	font-size: 2em;
 	margin-bottom: 0;
-}
-
-article#announcements h3 {
-	font-size: 1.5em;
 }
 
 /* ---- Galleries Styles ---- */
@@ -486,7 +494,7 @@ header h1 {
 	line-height: 125px;
 	width: 280px;
 	margin: 0 auto;
-	background: url(../_images/hotsaLogo.png) no-repeat left center;
+	background: url(../_images/hotsaLogo.svg) no-repeat left center;
 }
 
 header h2 {
@@ -557,27 +565,27 @@ button.menu-toggle {
 }
 
 .home, .announcements, .links, .gallery {
-	background: rgb(49, 49, 51) url(../_images/banner/home_sm.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/home_sm.svg) no-repeat center center;	
 }
 
 .officials-directors {
-	background: rgb(49, 49, 51) url(../_images/banner/officials-directors_sm.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/officials-directors_sm.svg) no-repeat center center;	
 }
 
 .membership {
-	background: rgb(49, 49, 51) url(../_images/banner/membership_sm.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/membership_sm.svg) no-repeat center center;	
 }
 
 .matchSchedule {
-	background: rgb(49, 49, 51) url(../_images/banner/match_sm.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/match_sm.svg) no-repeat center center;	
 }
 
 .vbr {
-	background: rgb(49, 49, 51) url(../_images/banner/vbr_sm.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/vbr_sm.svg) no-repeat center center;	
 }
 
 .directions-map {
-	background: rgb(49, 49, 51) url(../_images/banner/directions-map_sm.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/directions-map_sm.svg) no-repeat center center;	
 }
 
 /* ---- Article Styles ---- */
@@ -590,6 +598,10 @@ article {
 article h2 {
 	font-size: 2em;
 	margin-bottom: 0;
+}
+
+article h3 {
+	font-size: 1.5em;	
 }
 
 /* ---- Map Styles ---- */
@@ -605,7 +617,7 @@ div.google-maps iframe {
 }	
 div.map-image {
 	height: 582px;
-	background: url(../_images/map/map_md.jpg)	no-repeat center center;
+	background: url(../_images/map/map_md.svg)	no-repeat center center;
 }
 
 /* ---- Announcements Styles ---- */
@@ -623,10 +635,6 @@ aside#announcements-redirect {
 aside#announcements-redirect h2 {
 	font-size: 2em;
 	margin-bottom: 0;
-}
-
-article#announcements h3 {
-	font-size: 1.5em;	
 }
 
 /* ---- Galleries Styles ---- */
@@ -663,7 +671,7 @@ header h1 {
 	float: left;
 	margin-left: 3.9%;/* fixes nasty 1px header fitting problem*/
 	display: inline;
-	background: url(../_images/hotsaLogo.png) no-repeat left center;
+	background: url(../_images/hotsaLogo.svg) no-repeat left center;
 }
 
 header h2 {
@@ -705,27 +713,27 @@ button.menu-toggle {
 }
 
 .home, .announcements, .links, .gallery {
-	background: rgb(49, 49, 51) url(../_images/banner/home.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/home.svg) no-repeat center center;	
 }
 
 .officials-directors {
-	background: rgb(49, 49, 51) url(../_images/banner/officials-directors.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/officials-directors.svg) no-repeat center center;	
 }
 
 .membership {
-	background: rgb(49, 49, 51) url(../_images/banner/membership.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/membership.svg) no-repeat center center;	
 }
 
 .matchSchedule {
-	background: rgb(49, 49, 51) url(../_images/banner/match.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/match.svg) no-repeat center center;	
 }	
 
 .vbr {
-	background: rgb(49, 49, 51) url(../_images/banner/vbr.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/vbr.svg) no-repeat center center;	
 }
 
 .directions-map {
-	background: rgb(49, 49, 51) url(../_images/banner/directions-map.jpg) no-repeat center center;	
+	background: rgb(49, 49, 51) url(../_images/banner/directions-map.svg) no-repeat center center;	
 }
 
 /* ---- Article Styles ---- */
@@ -736,6 +744,10 @@ article {
 article h2 {
 	font-size: 2.8em;
 	margin-bottom: .1em;
+}
+
+article h3 {
+	font-size: 2em;	
 }
 
 article p {
@@ -797,7 +809,12 @@ div.google-maps iframe {
 
 div.map-image {
 	height: 984px;
-	background: url(../_images/map/map.jpg)	no-repeat center center;
+	background: url(../_images/map/map.svg)	no-repeat center center;
+}
+
+/* ---- Links Styles --- */
+a.image-link {
+	margin: .8em 0;
 }
 
 /* ---- Announcements Styles ---- */
@@ -819,10 +836,6 @@ aside#announcements-redirect h2 {
 aside#announcements-redirect p {
 	font-size: 1.2em;
 	margin: .8em 0;
-}
-
-article#announcements h3 {
-	font-size: 2em;	
 }
 
 /* ---- Galleries Styles ---- */
