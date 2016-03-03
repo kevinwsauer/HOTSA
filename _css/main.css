@@ -51,7 +51,6 @@ body {
 	background: -moz-linear-gradient(top,  rgb(151,147,144) 0%, rgb(49,49,51) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#979390', endColorstr='#313133',GradientType=0 ); /* IE6-9 */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -241,6 +240,40 @@ a.image-link {
 
 a.image-link:hover {
 	border-bottom: none;
+}
+
+/* ---- Featured ---- */
+section.background {
+    margin: 2em 0 4em;
+	width: 100%;
+    display: table;
+}
+
+section.background div.featured-container {
+    display: table-cell;
+   	vertical-align: top;
+}
+
+section.background div.featured-container h2 {
+    color: rgb(250, 254, 255);
+	border-bottom: 2px solid rgb(250, 254, 255);
+}
+
+section.background div.featured-container p {
+    font-size: 1em;
+	color: rgb(250, 254, 255);
+	margin: 1.2em 0;
+}
+
+section.featured {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&1+0,0.6+100 */
+	background: url("../_images/shilohsharps.svg"); /* Older browsers */
+	background: -moz-linear-gradient(top, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 /* ---- Announcements Styles ---- */
@@ -443,6 +476,24 @@ div.map-image {
 	background: url(../_images/map/map_sm.svg)	no-repeat center center;
 }
 
+/* ---- Featured ---- */
+section.background {
+	margin: 1.5em 0 0;
+}
+
+section.background div.featured-container {
+	padding: 0 5%;
+}
+
+section.background div.featured-container h2 {
+    font-size: 2em;
+	margin-bottom: 0;
+}
+
+section.featured {
+   height: 530px;
+}
+
 /* ---- Announcements Styles ---- */
 div.announcements-wrapper {
 	margin-top: 1.5em;
@@ -618,6 +669,25 @@ div.google-maps iframe {
 div.map-image {
 	height: 582px;
 	background: url(../_images/map/map_md.svg)	no-repeat center center;
+}
+
+/* ---- Featured ---- */
+section.background {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+section.background div.featured-container {
+	padding: 0 5%;
+}
+
+section.background div.featured-container h2 {
+    font-size: 2em;
+	margin-bottom: 0;
+}
+
+section.featured {
+   height: 846px;
 }
 
 /* ---- Announcements Styles ---- */
@@ -815,6 +885,24 @@ div.map-image {
 /* ---- Links Styles --- */
 a.image-link {
 	margin: .8em 0;
+}
+
+/* ---- Featured ---- */
+section.background div.featured-container {
+	padding: 0 3.9%;
+}
+
+section.background div.featured-container h2 {
+    font-size: 2.8em;
+	margin-bottom: .1em;
+}
+section.background div.featured-container p {
+    font-size: 1.2em;
+    margin: .8em 0;
+}
+
+section.featured {
+    height: 1565px;
 }
 
 /* ---- Announcements Styles ---- */
