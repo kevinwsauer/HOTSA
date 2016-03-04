@@ -50,6 +50,7 @@ body {
 	background: rgb(49,49,51); /* Old browsers */
 	background: -moz-linear-gradient(top,  rgb(151,147,144) 0%, rgb(49,49,51) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: -o-linear-gradient(top,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* Opera */
 	background: linear-gradient(to bottom,  rgb(151,147,144) 0%,rgb(49,49,51) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
@@ -270,6 +271,7 @@ section.featured {
 	background: url("../_images/shilohsharps.svg"); /* Older browsers */
 	background: -moz-linear-gradient(top, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* Chrome10-25,Safari5.1-6 */
+	background: -o-linear-gradient(top, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* Opera */
 	background: linear-gradient(to bottom, rgba(0,0,0,0.6), transparent), url("../_images/shilohsharps.svg"); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     background-repeat: no-repeat;
     background-position: center center;
