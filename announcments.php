@@ -23,6 +23,16 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="03-16-2016">
+<h3>March 16, 2016</h3>
+<p>Here's some info &amp; schedule details on the new VBRS matches going on at the club this season. Please feel free to print the attached &amp; pass it on to anyone that might be interested. We can use all the new shooters we can get to grow the clubs membership.
+<br>
+<br>
+<a href="_documents/VBRS_Match_Flyer.pdf" title="VBRS Match Flyer">VBRS Match Flyer</a>
+<br>
+<br>  
+Contact David Brady if you have any questions.</p>
+</section><!-- #02-15-2016 -->
 <section id="02-15-2016">
 <h3>February 15, 2016</h3>
 <p>We will have our second <strong>BIG</strong> workday this Saturday the 20th starting at 9am, to complete all the rail movement and crafting. We will pour concrete on the firing line, set stands for gongs at the 100, 200, 300, 600 and 750 yard berms. Please come and lend a hand but bring your tools; shovel, rake, post hole digger, leather gloves, portable welder and anything you might think is helpful. We might be able to get all the rails set, new firing line poured, and final spruce ups complete then resume matches in March.
