@@ -31,6 +31,9 @@ $title = " - Links"; ?>
 <a href="http://www.montanavintagearms.com" title="Montana Vintage Arms" class="image-link"><img src="_images/links/MontanaVintageArmsLogo.svg" alt="Montana Vintage Arms" width="300px"></a>
 <br>
 <br>
+<a href="http://p-gsalesllc.com/" title="P &amp; G Sales" class="image-link"><img src="_images/links/PGSalesLogo.svg" alt="P & G Sales" width="300px"></a>
+<br>
+<br>
 <a href="http://www.shilohsharps.com" title="Shiloh Sharps" class="image-link"><img src="_images/links/ShilohSharpsLogo.svg" alt="Shiloh Sharps" width="300px"></a>
 </div><!-- .links-container -->
 <h3>Silhouette Shooting Clubs</h3>
