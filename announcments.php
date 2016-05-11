@@ -23,6 +23,24 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="05-02-2016">
+<h3>May 2, 2016</h3>
+<p>We had our 1<sup>st</sup> Varmint Benchrest Silhouette (VBRS) match on 04/30/16 which was attended by 17 shooters. I think the match was well received &amp; we had a wonderful day to shoot! 1<sup>st</sup> place was Travis Frazer with 53, 2<sup>nd</sup> was Denny Henderson with 52, &amp; 3<sup>rd</sup> was Dan Nindorf with 48. These were some pretty impressive scores and I was very proud of all the guys coming to give a shot at the latest shooting sport around engaging targets from 200 meters to 750 yards! I've also added a couple of links for additional information about Varmint Benchrest Silhouettes (VBRS) as follows:
+<br>
+<br>
+<a href="_documents/VBR_Competitor_Information.pdf">VBRS Competitor Information</a>
+<br>
+<br>
+<a href="_documents/VBRS_Match_Flyer.pdf">VBRS Match Flyer</a>
+<br>
+<br>
+Come on out &amp; shoot with us May 28, &amp; July 23, 2016.
+<br>
+<br>
+Thanks!
+<br>
+David Brady
+</section><!-- #05-02-2016 -->
 <section id="03-23-2016">
 <h3>March 23, 2016</h3>
 <p><strong>REMINDER:</strong>
