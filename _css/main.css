@@ -297,6 +297,19 @@ aside#announcements-redirect p {
 	margin: 1.2em 0;
 }
 
+/* ---- Gallery Styles ---- */
+a.facebook-gallery {
+	display: inline-block;
+	background: url(../_images/Facebook.svg) no-repeat left center;
+	padding-left: 42px; 
+	line-height: 32px;
+	border-bottom: none;
+}
+
+a.facebook-gallery:hover {
+	text-decoration: none;
+}
+
 /* ---- Footer Styles ---- */
 #pageFooter {
 	background: rgb(151, 147, 144);
