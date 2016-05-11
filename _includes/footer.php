@@ -11,8 +11,5 @@
 <!-- Non-minified version -->
 <!--<script src="_js/navigation.js" type="text/javascript"></script>-->
 <script src="_js/navigation.min.js" type="text/javascript"></script>
-<!-- Non-minified version -->
-<!--<script src="_js/gallery-modal.js" type="text/javascript"></script>-->
-<script src="_js/gallery-modal.min.js" type="text/javascript"></script>
 </body>
 </html>

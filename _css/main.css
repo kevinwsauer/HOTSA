@@ -297,35 +297,6 @@ aside#announcements-redirect p {
 	margin: 1.2em 0;
 }
 
-/* ---- Galleries Styles ---- */
-section.gallery-container {
-	background: rgb(49,49, 51);	
-	padding-bottom: 30px;
-}
-
-div.gallery-images {
-	margin: 0 auto;	
-}
-
-div.gallery-images a {
-	display: inline-block;
-	border-bottom: none;
-}
-
-div.gallery-images a:hover {
-	border-bottom: none;
-}
-
-div.gallery-images img {
-	margin: 30px 15px 0;
-	border: 5px solid rgb(250, 254, 255);
-}
-
-div.gallery-images img:hover {
-	border: 5px solid rgb(40, 110, 160);	
-	cursor: url(../_images/magnifying_glass.svg), auto;
-}
-
 /* ---- Footer Styles ---- */
 #pageFooter {
 	background: rgb(151, 147, 144);
@@ -514,15 +485,6 @@ aside#announcements-redirect h2 {
 	margin-bottom: 0;
 }
 
-/* ---- Galleries Styles ---- */
-section.gallery-container {
-	margin-top: .1em;	
-}
-
-div.gallery-images {
-	width: 290px;
-}
-
 .facebook a {
 	margin-right: 15%;
 	margin-left: 15%;
@@ -707,15 +669,6 @@ aside#announcements-redirect {
 aside#announcements-redirect h2 {
 	font-size: 2em;
 	margin-bottom: 0;
-}
-
-/* ---- Galleries Styles ---- */
-section.gallery-container {
-	margin-top: .1em;	
-}
-
-div.gallery-images {
-	width: 290px;
 }
 
 }
@@ -926,11 +879,6 @@ aside#announcements-redirect h2 {
 aside#announcements-redirect p {
 	font-size: 1.2em;
 	margin: .8em 0;
-}
-
-/* ---- Galleries Styles ---- */
-div.gallery-images {
-	width: 880px;
 }
 
 /* ---- Footer Styles ---- */

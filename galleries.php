@@ -24,10 +24,25 @@ $title = " - Galleries"; ?>
 <article id="galleries" role="contentinfo">
 <h2>Galleries</h2>
 <p>
-<a href="hotsa-range-construction.php" title="HOTSA Range Construction">HOTSA Range Construction</a>
+<a href="https://www.facebook.com/media/set/?set=a.1021229307931441.1073741838.949171848470521&type=1&l=73502e0cb7" title="2016 Texas State BPCR Championship">2016 Texas State BPCR Championship</a>
 <br>
 <br>
-<a href="legacy-shooting-products.php" title="Legacy Shooting Products">Legacy Shooting Products</a>
+<a href="https://www.facebook.com/media/set/?set=a.1009744575746581.1073741836.949171848470521&type=1&l=16a7d72936" title="22 BPCR April 16th, 2016">22 BPCR April 16th, 2016</a>
+<br>
+<br>
+<a href="https://www.facebook.com/media/set/?set=a.1006510299403342.1073741835.949171848470521&type=1&l=43d977b2f9" title="BPCR Match April 9th, 2016">BPCR Match April 9th, 2016</a>
+<br>
+<br>
+<a href="https://www.facebook.com/media/set/?set=a.964378433616529.1073741832.949171848470521&type=1&l=71771be598" title="HOTSA Range Construction">HOTSA Range Construction</a>
+<br>
+<br>
+<a href="https://www.facebook.com/media/set/?set=a.955451697842536.1073741831.949171848470521&type=1&l=c9d961e8bd" title="22 BPCR Texas Fall Match">22 BPCR Texas Fall Match</a>
+<br>
+<br>
+<a href="https://www.facebook.com/media/set/?set=a.950774868310219.1073741830.949171848470521&type=1&l=5e5d71ee60" title="BPCR 2015 STATE">BPCR 2015 STATE</a>
+<br>
+<br>
+<a href="https://www.facebook.com/media/set/?set=a.1021257457928626.1073741839.949171848470521&type=1&l=e9f513d834" title="Legacy Shooting Products">Legacy Shooting Products</a>
 </p>
 </article><!-- #galleries -->
 </section><!-- #main -->
