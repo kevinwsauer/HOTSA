@@ -26,7 +26,7 @@ $title = " - Match Schedule"; ?>
 <p>The general schedule is as follows but check with the match directors before making the trip if you are not sure.</p>
 <p>1<sup>st</sup> Saturday of the month: BPCR Big Bore<br>
 <strong>Match Director:</strong> Ken Tebbe</p>
-<p>2<sup>nd</sup> Sunday of the month: High Power Silhouette and 22 Silhouette<br>
+<p>2<sup>nd</sup> Sunday of the month: High Power Silhouette<br>
 <strong>Match Director:</strong> Jack Garrett</p>
 <p>3<sup>rd</sup> Saturday of the month: 22 Rim-fire BPCR<br>
 <strong>Match Director:</strong> Walt Ballew</p>
