@@ -23,6 +23,24 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="06-08-2016">
+<h3>June 8, 2016</h3>
+<p>
+Texas Shooters,
+<br>
+<br>
+You are all invited to the hotsa range on Saturday June 25<sup>th</sup> for a 400 yard clay match. It will be a 4 relay 40 round match with unlimited sighters before the first relay. Each relay will have 7 mid-size clays worth 1 point each and 2 mini clays. The first mini is worth 2 points and if both minis are hit, the second one is worth 3 points. Ten rounds per relay to hit nine clays. Same criteria as last year. Shooters meeting at 8:45, match begins at 9:00. We should be finished around noon.
+<br>
+<br>
+There are a few benches at the range but if you have a portable bench, bring it and a stool. Entry fee $35 with 50% of it going to the prize money. For directions and other information about the range, go to our web site <a href="http://www.hotsa.org" >www.hotsa.org</a>. You are also welcome to call me at 972-742-9359.
+<br>
+<br>
+For directions and map to the range visit the
+<a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a>
+page.
+<br>
+<br>
+Denny Henderson
 <section id="05-02-2016">
 <h3>May 2, 2016</h3>
 <p>We had our 1<sup>st</sup> Varmint Benchrest Silhouette (VBRS) match on 04/30/16 which was attended by 17 shooters. I think the match was well received &amp; we had a wonderful day to shoot! 1<sup>st</sup> place was Travis Frazer with 53, 2<sup>nd</sup> was Denny Henderson with 52, &amp; 3<sup>rd</sup> was Dan Nindorf with 48. These were some pretty impressive scores and I was very proud of all the guys coming to give a shot at the latest shooting sport around engaging targets from 200 meters to 750 yards! I've also added a couple of links for additional information about Varmint Benchrest Silhouettes (VBRS) as follows:
