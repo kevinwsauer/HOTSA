@@ -23,6 +23,17 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="07-08-2016">
+<h3>July 8, 2016</h3>
+<p>
+HOTSA will not have a 22 BPCRA match on Saturday, July 16<sup>th</sup> due to the National Championship matches in Raton, NM. We will resume our silhouette schedule on August 6<sup>th</sup> with a big bore match.
+<br>
+<br>
+Thank you,
+<br>
+Ken Tebbe, Director 
+</p>
+</section>
 <section id="06-08-2016">
 <h3>June 8, 2016</h3>
 <p>

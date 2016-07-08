@@ -4,6 +4,9 @@
 <p>Get the latest announcements from the Heart of Texas Silhouette Association.
 <br>
 <br>
+<a href="announcments.php#07-08-2016" title="July 08, 2016">July 08, 2016</a>
+<br>
+<br>
 <a href="announcments.php#06-08-2016" title="June 08, 2016">June 08, 2016</a>
 <br>
 <br>
