@@ -37,6 +37,9 @@ VBR - David Brady<br>
 <strong>Schedule:</strong><br>
 Clays: 06/25/2016 &amp; 09/24/2016<br>
 VBR: 04/23/2016 &amp; 05/28/2016 &amp; 07/23/2016<br>
+<strong>Information:</strong><br>
+<a href="_documents/VBR_Competitor_Information.pdf">VBRS Competitor Information</a><br>
+<a href="_documents/VBRS_Scoresheet_Range_Info.pdf">VBRS Scoresheet Range Information</a><br>
 For more information on VBR &#40;Varmint Bench Rest&#41; click the <a href="vbr-varmint-bench-rest.php" title="VBR &#40;Varmint Bench Rest&#41;">VBR &#40;Varmint Bench Rest&#41;</a> link.</p>
 <p>4<sup>th</sup> Sunday of the month: Lever Action Silhouette<br>
 <strong>Match Director:</strong> Curtis Smith</p>

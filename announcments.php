@@ -23,6 +23,23 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="07-11-2016">
+<h3>July 11, 2016</h3>
+<p>
+New VBRS match and competitor information added to help clarify some of the aspects of this new VBRS sport.
+<br>
+<br>
+<a href="_documents/VBR_Competitor_Information.pdf">VBRS Competitor Information</a>
+<br>
+<br>
+<a href="_documents/VBRS_Scoresheet_Range_Info.pdf">VBRS Scoresheet Range Information</a>
+<br>
+<br>
+Thank you,
+<br>
+David Brady, Director 
+</p>
+</section><!-- #07-08-2016 -->
 <section id="07-08-2016">
 <h3>July 8, 2016</h3>
 <p>

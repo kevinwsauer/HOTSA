@@ -23,6 +23,10 @@ $title = " - VBR: Varmint Bench Rest"; ?>
 <section id="main" role="main">
 <article id="vbr" role="contentinfo">
 <h2>VBR: Varmint Bench Rest</h2>
+<p>
+<a href="_documents/VBR_Competitor_Information.pdf">VBRS Competitor Information</a><br><br>
+<a href="_documents/VBRS_Scoresheet_Range_Info.pdf">VBRS Scoresheet Range Information</a>
+</p>
 <p>We are super excited to bring a new sport to our shooting range.  Kenny Tebbe was inspired after seeing a long range shooting event on the outdoor channel and a spark was ignited that is starting to burn a little bigger.  Judging by the number of inquiries and the talk at the local gun shop &#40;of course,that's Keith's Hardware&#41;, it will be a blazing wildfire in no time.</p>
 <p>This is a sport shooting little-bitty steel targets at long range.  We have modified the prairie dog, armadillo, coyote and wild boar targets to approximate one MOA at all distance which means scaling down each target a bit &#40;or a lot&#41;.</p> 
 <p>So here are the prairie dog, armadillo, coyote and wild boar target sizes to give you an idea of how it might look.</p>
