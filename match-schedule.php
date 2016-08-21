@@ -29,7 +29,8 @@ $title = " - Match Schedule"; ?>
 <p>2<sup>nd</sup> Sunday of the month: High Power Silhouette<br>
 <strong>Match Director:</strong> Jack Garrett</p>
 <p>3<sup>rd</sup> Saturday of the month: 22 Rim-fire BPCR<br>
-<strong>Match Director:</strong> Walt Ballew</p>
+<strong>Match Director:</strong> Ken Tebbe<br>
+<strong>Assistant Director:</strong> Walt Ballew</p>
 <p>4<sup>th</sup> Saturday of the month: Clays or VBR &#40;Varmint Bench Rest&#41; <span class="note">&#40;as below&#41;</span><br>
 <strong>Match Directors:</strong><br>
 Clays - Denny Henderson<br>

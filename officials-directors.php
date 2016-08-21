@@ -45,7 +45,7 @@ $title = " - Officials &amp; Directors"; ?>
 <th colspan="2">Discipline Directors: </th>
 </tr>
 <td>BPCR:</td>
-<td>Kenny Tebbe<br>email: ken_tebbe@baylor.edu</td>
+<td>Ken Tebbe<br>email: ken_tebbe@baylor.edu</td>
 </tr>
 <tr>
 <td>High Power:</td>
@@ -53,7 +53,7 @@ $title = " - Officials &amp; Directors"; ?>
 </tr>
 <tr>
 <td>22 BPCR:</td>
-<td>Walt Ballew<br>email: </td>
+<td>Ken Tebbe<br>email: ken_tebbe@baylor.edu<br>Walt Ballew<br>email: </td>
 </tr>
 <tr>
 <td>Clays &amp;<br>VBR &#40;Varmint Bench Rest&#41;:</td>
