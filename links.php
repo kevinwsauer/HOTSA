@@ -25,6 +25,9 @@ $title = " - Links"; ?>
 <h2>Links</h2>
 <h3>Silhouette Shooting Products</h3>
 <div class="links-container">
+<a href="https://fieldandcaveoutfitters.com" title="Field &amp; Cave Outfitters" class="image-link"><img src="_images/links/FCOutfittersLogo.svg" alt="Field &amp; Cave Outfitters" width="300px"></a>
+<br>
+<br>
 <a href="http://www.legacyshootingproducts.com" title="Legacy Shooting Products" class="image-link"><img src="_images/links/LegacyShootingProductsLogo.svg" alt="Legacy Shooting Products" width="300px"></a>
 <br>
 <br>
