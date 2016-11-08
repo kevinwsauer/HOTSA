@@ -56,8 +56,8 @@ $title = " - Officials &amp; Directors"; ?>
 <td>Ken Tebbe<br>email: ken_tebbe@baylor.edu<br>Walt Ballew<br>email: </td>
 </tr>
 <tr>
-<td>Clays &amp;<br>VBR &#40;Varmint Bench Rest&#41;:</td>
-<td>Denny Henderson<br>email: drh15t@aol.com<br>David Brady<br>email: chempura@flash.net</td>
+<td>VBR &#40;Varmint Bench Rest&#41;:</td>
+<td>David Brady<br>email: chempura@flash.net</td>
 </tr>
 <tr>
 <td>Lever Action:</td>

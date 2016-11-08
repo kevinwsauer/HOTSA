@@ -22,7 +22,7 @@ $title = " - Match Schedule"; ?>
 <!-- Start Main Section -->
 <section id="main" role="main">
 <article id="match-schedule" role="contentinfo">
-<h2>2016 Match Schedule</h2>
+<h2>2017 Match Schedule</h2>
 <p>The general schedule is as follows but check with the match directors before making the trip if you are not sure.</p>
 <p>1<sup>st</sup> Saturday of the month: BPCR Big Bore<br>
 <strong>Match Director:</strong> Ken Tebbe</p>
@@ -31,13 +31,8 @@ $title = " - Match Schedule"; ?>
 <p>3<sup>rd</sup> Saturday of the month: 22 Rim-fire BPCR<br>
 <strong>Match Director:</strong> Ken Tebbe<br>
 <strong>Assistant Director:</strong> Walt Ballew</p>
-<p>4<sup>th</sup> Saturday of the month: Clays or VBR &#40;Varmint Bench Rest&#41; <span class="note">&#40;as below&#41;</span><br>
-<strong>Match Directors:</strong><br>
-Clays - Denny Henderson<br>
-VBR - David Brady<br>
-<strong>Schedule:</strong><br>
-Clays: 06/25/2016 &amp; 09/24/2016<br>
-VBR: 04/23/2016 &amp; 05/28/2016 &amp; 07/23/2016 &amp; 09/24/2016 &amp; 10/22/2016<br>
+<p>4<sup>th</sup> Saturday of the month: VBR &#40;Varmint Bench Rest Silhouettes&#41;<br>
+<strong>Match Directors</strong> David Brady<br>
 <strong>Information:</strong><br>
 <a href="_documents/VBRS_Competitor_Information.pdf">VBRS Competitor Information</a><br>
 <a href="_documents/VBRS_Scoresheet_Range_Info.pdf">VBRS Scoresheet Range Info.</a><br>
