@@ -13,6 +13,7 @@ $title = " - Officials &amp; Directors"; ?>
 <li><a href="directions-map.php" title="Direction &amp; Map">Directions &amp; Map</a></li>
 <li><a href="galleries.php" title="Galleries">Galleries</a></li>
 <li><a href="links.php" title="Links">Links</a></li>
+<li><a href="calendar.php" title="Calendar">Calendar</a></li>
 </ul><!-- .cf -->
 </nav><!-- #mainNav .toggle -->
 <!-- End Navigation Section -->
