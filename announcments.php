@@ -24,6 +24,51 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="10-23-2016">
+<h3>October 23, 2016</h3>
+<p>
+VBRS/Shooting USA
+<br>
+<br>
+I am pleased to announce that the club hosted the "Shooting USA" Team @ our 10/22/2016 VBRS Match.  The "Shooting USA" Team came down from Tennessee to shoot our match as a segment to their show on the Outdoor Channel.  I feel that it was beyond successful &amp; personally rewarding to participate in such an event.  The Shooting USA team recorded almost continuously during the match which lasted from around 9:00 till 4:00; the crew all conveyed to me that it "was a good shoot &amp; we have something unique going on here &amp; lots of neat stories".  John Scoutten was participating as a Competitor in shooting the match right along beside us.  I didn't think far enough ahead (it's hard to find good help nowadays) to have our own photographer present to document the event, but we will be able to a have a "link" on our website when it is completed.  If anyone took some pics, please send them to me so we can get them in our Gallery section.
+<br>
+<br>
+Attached are the results of our VBRS/Shooting USA match:
+<br>
+<br>
+1st Place = Monte Sutton 53 (reverse animal count=Silhouette methodology to minimize shoot-offs).
+<br>
+2nd Place = Donnel Gaines 53
+<br>
+3rd Place = Denny Henderson 52 (reverse animal count also) 
+<br>
+Bunches of real good scores, "10-in-a-rows" while shooting @ "Little Bitty Critters" @ long distances.
+<br>
+A 16 yr old young man by the name of Will Toronjo shot a score = 51 which is up there with the "Big Dogs".  What ya bet that Dad's proud of that accomplishment!
+<br>
+It's real difficult to judge wind &amp; mirage @ these distances, there ain't no "Gimmies" @ this game &amp; the Targets really need to be bigger.
+<br>
+Several New Shooters, Old Shooters, &amp; Young Shooters.
+<br>
+Several Father/Son teams with one team of a Father &amp; 2 Sons.
+<br>
+Handicapped/Disabled Shooters &amp; Veterans can also compete @ this sport.
+<br>
+Target Sitters don't make enough money for their Time &amp; Effort.
+<br>
+Lots &amp; lots of Happy Noises, Smiling Faces, &amp; Friends having fun.
+<br>
+Shooting USA incurring the time, trouble &amp; expense to "record the event" for us.
+<br>
+Whoever ordered the weather should get a raise.
+<br>
+<br>
+Sorry to be "Gooey", but I personally think it was a neat day &amp; I got to meet several new friends &amp; a whole bunch of Folks were newly inducted into the "Shootin @ Shit" group.  The HOTSA club looks forward to doing this again next year.  Please ck our website @ http://www.hotsa.org/ to keep up with our events, announcements &amp; schedules.  We also shoot High Power Metallic Silhouettes (centerfire &amp; .22 rimfire), Lever action Silhouettes, BPCS &amp; 22 BPCS (Black Powder Cartridge Silhouettes centerfire &amp; .22 rimfire), VBRS @ our club.  Sorry the match takes so long, but there's a lot going on &amp; it consumes a lot of time &amp; effort to shoot @ 6 "Critters" all the way out to 750 yds.  I apologize for my errors in calling the Match &amp; appreciate your understanding &amp; flexibility especially @ the 600 &amp; 750 yd Targets.  The club will try &amp; learn from this &amp; make improvements where we can.  Shooting USA will advise when their routine is complete &amp; when the anticipated broadcast will be.  They did advise me that a good source for schedule info will be available @ their website: <a href="http://www.shootingusa.com/" title="Shooting USA">http://www.shootingusa.com/</a>; roughly maybe in the February 2017 time-frame.
+<br>
+<br>
+<a href="_documents/HOTSA_Shooting_USA_10-22-16.pdf" title="HOTSA Shooting USA 10-22-16">HOTSA Shooting USA 10-22-16</a>
+</p>
+</section>
 <section id="07-27-2016">
 <h3>July 27, 2016</h3>
 <p>
