@@ -24,6 +24,63 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="01-14-2017-0">
+<h3>January 14, 2017</h3>
+<p>
+2017 Texas State BPCR &amp; BPCRA Championships .22 Friday 03/31/2017 and Big Bore 04/01/17-04/02/2017
+<br>
+<br>
+<a href="_documents/2017_TxState_BPCR_Match.pdf">Match Info &amp; Entry Forms</a>
+</p>
+</section><!-- #01-14-2017-0 -->
+<section id="01-14-2017-1">
+<h3>January 14, 2017</h3>
+<p>
+Varmint Benchrest Silhouette (VBRS) 2017 Info &amp; Schedule
+<br>
+<br>
+Dear Fellow Varmint Benchrest Silhouette Shooters!
+<br>
+<br>
+I am looking forward to this years activities &amp; hopefully it will continue to be received well by our shooting family. The HOTSA club &amp; I do appreciate your support of our VBRS matches &amp; are looking forward to another season in 2017.  I hope you will slot the 4th Saturday to come &amp; shoot with us as-often-as possible. In regards to the Shooting USA segment, my last update from Shooting USA was that it is still on track to air sometime in February.  Elise did confirm that we will have access to a copy that we can download or whatever to watch.  I personally am looking forward to seeing it myself.  They said that their website has a listing of scheduled Segments listed, this is the best way to pin point the exact "air date" is @ the TV Schedule link @  <a href="http://www.shootingusa.com" title="Shooting USA">http://www.shootingusa.com</a>.  Please let you friends &amp; family know all about it, &amp; encourage them to come out &amp; participate.
+<br>
+<br>
+Just thought I would send some notes about 2017 schedules, things &amp; information:
+<br>
+<br>
+Please be advised that the Range &amp; Club has a New Owner!  The HOTSA club is intact exactly as it has been &amp; all functions will be operating as scheduled.  The only change is that we require the Shooters to sign a "Liability Waiver" before the can commence shooting.  We will have the Form @ the Stat Office &amp; it will be available when you Register.  It's a standard type Form that many organizations use currently.
+<br>
+<br>
+We will continue slotting the 4th Saturday of each month March thru October to hold our VBRS Match(s) with the Shooters meeting @ 8:30 &amp; match -s- @ 9:00.  I will hold August as "Tentative" due to the normal Heat problem.
+<br>
+<br>
+Set-up routine will be the same: show up pick your spot, get your group together &amp; sign in.
+<br>
+<br>
+Hopefully we will not require Advance Entry unless the participation becomes @/near max as we can only realistically shoot 3 Relays (36 Shooters).  If that becomes so, we could easily ask for "Reservations" to help the Shooters plan ahead so to not waste a trip if we are "Full".  
+<br>
+<br>
+Currently @ this time we cannot effectively have more than 3 Relays or 36 Shooters.  It would make it very difficult to finish @ a reasonable hour even being as efficient as we can.
+<br>
+<br>
+HOTSA is reviewing the feasibility of adding 2 more Targets @ the 600 &amp; 750, which would enable us to shoot 12 @ a time like we are currently doing @ the other 4 Critters.
+<br>
+<br>
+We do have a "Calendar" on our website now. It has the scheduled events &amp; it will also be used for last minute things if necessary (weather etc).  Please visit the website often to keep up with the latest info etc @ http://www.hotsa.org/ @ the Calendar Link.
+<br>
+<br>
+This particular VBRS Match is very expensive to host as it requires 4 Target Sitters &amp; 2 ATV's to expedite time between Relays &amp; all the set-up &amp; put up tasks.  I am going to have to reduce the "Payout" to 20% (Net) so that the club can afford a more reasonable compensation to the Target Sitters.  I hope that you understand and we will continue to have the "Tip Jar" available for the Shooters to additionally put some money in their pockets for exceptional service.  Tips are required to supplement this part of the match.
+<br>
+<br>
+Once again, thank you for your support &amp; interest &amp; we look forward to this years matches &amp; seeing old &amp; new Friends.  Please encourage others to come out &amp; observe &amp; try this new sport with us.
+<br>
+<br>
+Thank you,
+<br>
+<br>
+David Brady
+</p>
+</section><!-- #01-14-2017-1 -->
 <section id="10-23-2016">
 <h3>October 23, 2016</h3>
 <p>
