@@ -24,16 +24,16 @@ $title = " - Membership"; ?>
 <section id="main" role="main">
 <article id="membership" role="contentinfo">
 <h2>Membership</h2>
-<p>To apply for membership, download the general rules for membership and the membership form. Please review the general rules for membership and email the completed membership form to the following email address:
+<p>To apply for membership, download the general rules for membership, the membership form and the release form. Please review the general rules for membership and email the completed membership form and release form to the following email address:
 <br>
 <br>
-<a href="_documents/2015_HOTSA_General_Rules_for_Membership.pdf" title="General Rules for Membership" download>General Rules for Membership</a>
+<a href="_documents/2017_HOTSA_General_Rules_for_Membership.pdf" title="General Rules for Membership" download>General Rules for Membership</a>
 <br>
 <br>
-<a href="_documents/2016_HOTSA_Membership_Form.pdf" title="Membership Form" download>Membership Form</a>
+<a href="_documents/2017_HOTSA_Membership_Form.pdf" title="Membership Form" download>Membership Form</a>
 <br>
 <br>
-<a href="_documents/2016_HOTSA_Membership_Orientation_Form.pdf" title="Membership Orientation Form" download>Membership Orientation Form</a>
+<a href="_documents/2017_HOTSA_Release_Form.pdf" title="Release Form" download>Release Form</a>
 <br>
 <br>
 Email: hvinson2@verizon.net

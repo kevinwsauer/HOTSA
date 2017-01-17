@@ -25,6 +25,15 @@ $title = " - Announcements"; ?>
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
 <section id="01-14-2017-0">
+<h3>January 16, 2017</h3>
+<p>
+2017 General Rules for Membership, Membership Form &amp; Release Form
+<br>
+<br>
+<a href="http://hotsa.org/membership.php">Membership Forms</a>
+</p>
+</section><!-- #01-14-2017-0 -->
+<section id="01-14-2017-0">
 <h3>January 14, 2017</h3>
 <p>
 2017 Texas State BPCR &amp; BPCRA Championships .22 Friday 03/31/2017 and Big Bore 04/01/17-04/02/2017

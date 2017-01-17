@@ -4,6 +4,11 @@
 <p>Get the latest announcements from the Heart of Texas Silhouette Association. Click on the dates for more information.
 <br>
 <br>
+<a href="announcments.php#01-16-2017" title="January 16, 2017">January 16, 2017</a>
+<br>
+2017 General Rules for Membership, Membership Form &amp; Release Form
+<br>
+<br>
 <a href="announcments.php#01-14-2017-0" title="January 14, 2017">January 14, 2017</a>
 <br>
 2017 TX State BPCR Championship(s) - 22 BPCRA &amp; Big Bore - Entry Forms
