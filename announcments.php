@@ -43,7 +43,7 @@ You will have the opportunity to renew your membership and discuss range operati
 <a href="http://hotsa.org/membership.php">Membership Forms</a>
 </p>
 </section><!-- #01-14-2017-0 -->
-<section id="01-16-2017-1">
+<section id="01-14-2017-0">
 <h3>January 14, 2017</h3>
 <p>
 2017 Texas State BPCR &amp; BPCRA Championships .22 Friday 03/31/2017 and Big Bore 04/01/17-04/02/2017
