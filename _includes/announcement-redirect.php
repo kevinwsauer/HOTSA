@@ -4,7 +4,12 @@
 <p>Get the latest announcements from the Heart of Texas Silhouette Association. Click on the dates for more information.
 <br>
 <br>
-<a href="announcments.php#01-16-2017" title="January 16, 2017">January 16, 2017</a>
+<a href="announcments.php#01-16-2017-0" title="January 16, 2017">January 16, 2017</a>
+<br>
+Annual Membership Meeting - January 28th, 2017 @ 10:30 AM
+<br>
+<br>
+<a href="announcments.php#01-16-2017-1" title="January 16, 2017">January 16, 2017</a>
 <br>
 2017 General Rules for Membership, Membership Form &amp; Release Form
 <br>
