@@ -36,6 +36,9 @@ $title = " - Membership"; ?>
 <a href="_documents/2017_HOTSA_Release_Form.pdf" title="Release Form" download>Release Form</a>
 <br>
 <br>
+<a href="_documents/2016_HOTSA_Membership_Orientation_Form.pdf" title="Membership Orientation Form" download>Membership Orientation Form</a>
+<br>
+<br>
 Email: hvinson2@verizon.net
 <br>
 <br>
