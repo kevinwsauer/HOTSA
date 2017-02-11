@@ -24,6 +24,34 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="02-07-2017">
+<h3>February 7, 2017</h3>
+<p>
+Shooting USA Episode Information
+<br>
+<br>
+Please be advised that the "Shooting USA" segment that was filmed @ our 10/22/2017 VBRS Match is scheduled to be shown on the Outdoor Channel -s- 02/07/17 &amp; 02/08/17! Please set your DVR's or go directly to their website &amp; order a copy for yourself @ <a href="http://www.shootingusa.com/TV_SCHEDULE/SHOW_36-02/show_36-02.html">http://www.shootingusa.com/TV_SCHEDULE/SHOW_36-02/show_36-02.html</a>
+<br>
+<br>
+Here's a link to order your CD @ <a href="http://www.shootingusastore.com/items/show-dvds/2016-17-season-shooting-usa-shows/36-02-texas-varmint-bench-rest-detail.htm">
+http://www.shootingusastore.com/items/show-dvds/2016-17-season-shooting-usa-shows/36-02-texas-varmint-bench-rest-detail.htm</a>
+<br>
+<br>
+Thanks to all of you that helped me pull this off &amp; let the folks @ Shooting USA know also!
+<br>
+<br>
+David Brady
+</p>
+</section><!-- #02-07-2017 -->
+<section id="02-03-2017">
+<h3>February 3, 2017</h3>
+<p>
+2017 State BPCS Match Flyer &amp; Entry Form
+<br>
+<br>
+<a href="_documents/2017_Flyer_and_entry_for_State_Match.pdf">2017 State BPCS Match Flyer &amp; Entry Form</a>
+</p>
+</section><!-- #02-03-2017 -->
 <section id="01-16-2017-0">
 <h3>January 16, 2017</h3>
 <p>
@@ -33,7 +61,7 @@ Annual Membership Meeting - January 28th, 2017 @ 10:30 AM
 Please mark your calendars for the mandatory meeting at the range on January 28th at 10:30 AM.
 You will have the opportunity to renew your membership and discuss range operations and rules at the meeting.
 </p>
-</section><!-- #01-14-2017-0 -->
+</section><!-- #01-16-2017-0 -->
 <section id="01-16-2017-1">
 <h3>January 16, 2017</h3>
 <p>
@@ -42,7 +70,7 @@ You will have the opportunity to renew your membership and discuss range operati
 <br>
 <a href="http://hotsa.org/membership.php">Membership Forms</a>
 </p>
-</section><!-- #01-14-2017-0 -->
+</section><!-- #01-16-2017-0 -->
 <section id="01-14-2017-0">
 <h3>January 14, 2017</h3>
 <p>
