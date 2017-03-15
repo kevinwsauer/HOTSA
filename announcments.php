@@ -24,6 +24,30 @@ $title = " - Announcements"; ?>
 <section id="main" class="cf" role="main">
 <article id="announcements" role="contentinfo">
 <h2>Announcements</h2>
+<section id="03-01-2017">
+<h3>March 1, 2017</h3>
+<p>
+Important Announcement VBRS March 25, 2017!
+<br>
+<br>
+Dear Fellow VBRS Shooters!
+<br>
+<br>
+I hope all have been preparing &amp; awaiting for our 1st VBRS Match of the year!  We are currently scheduled to hold our 1st match on Saturday March 25, 2017 (4th Saturdays March-October).  FYI, I was recently made aware that the Shooting USA show can be seen on their website, order a DVD from them (<a href="http://www.shootingusastore.com/items/show-dvds/2016-17-season-shooting-usa-shows/36-02-texas-varmint-bench-rest-detail.htm">http://www.shootingusastore.com/items/show-dvds/2016-17-season-shooting-usa-shows/36-02-texas-varmint-bench-rest-detail.htm</a> ) or after 3 months on the Outdoor Channel  ( <a href="http://www.outdoorchannel.com/show.aspx?show-id=985&articletype=&key=Shooting-USA">http://www.outdoorchannel.com/show.aspx?show-id=985&articletype=&key=Shooting-USA</a> ) or the Shooting Usa YouTube ( <a href="https://www.youtube.com/playlist?list=PLWyI8FMj-_N8l1W2WMF-ABi9CzItc7g9u">https://www.youtube.com/playlist?list=PLWyI8FMj-_N8l1W2WMF-ABi9CzItc7g9u</a> ).  I was extremely satisfied with how well the show turned out &amp; how well they told the "stories" also.  An extremely professional group of folks to work with.  Hopefully we can bring them back someday for a "Rematch".
+<br>
+<br>
+I would also like to mention that it might be necessary to request "Reservation(s)" if the attendance is going to be @ or near our 36 Shooters (3 Relays of 12 Shooters) limit.  I have received inquiries &amp; feedback from quite a few folks that have expressed an interest in our new match.  I don't want someone to make a trip &amp; incur the cost/time &amp; not be able to shoot because we were "full".  I would like to discuss this matter @ our Shooters Meeting &amp; have a vote on doing a Reservation thing maybe.  I could easily list the "# of Reservations" on the HOTSA Calendar that can be maintained "real time" so anybody could inquire &amp; determine if they wanted to make a Reservation &amp; come &amp; shoot.  Please give this some thought.  A reservation could be made by email or Text to me &amp; I'll reflect the # received &amp; update it on the calendar.  Thanks in advance for your time in discussing this item.
+<br>
+<br>
+On a really neat item, the club has decided to add 2 more Chickens (600) &amp; Pigs (750) which will enable us to shoot 12 @ a time (6 critters ea).  This will help expedite the match &amp; I don't anticipate much/any delay starting the long line after we finish the 1st 4 Critters.  This is a large expense for us, but our hopes is that it will help us in running a more efficient match.
+<br>
+<br>
+Looking forward to seeing your Folks again! 
+<br>
+<br>
+David Brady
+</p>
+</section><!-- #03-01-2017 -->
 <section id="02-07-2017">
 <h3>February 7, 2017</h3>
 <p>
