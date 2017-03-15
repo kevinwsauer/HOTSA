@@ -4,6 +4,11 @@
 <p>Get the latest announcements from the Heart of Texas Silhouette Association. Click on the dates for more information.
 <br>
 <br>
+<a href="announcments.php#03-01-2017" title="March 1, 2017">March 1, 2017</a>
+<br>
+Important Announcement VBRS March 25, 2017!
+<br>
+<br>
 <a href="announcments.php#02-07-2017" title="February 7, 2017">February 7, 2017</a>
 <br>
 Shooting USA Episode Information
